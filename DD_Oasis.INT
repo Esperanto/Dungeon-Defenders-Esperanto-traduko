@@ -1,11 +1,11 @@
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
-StringVar="Venko de Nivelo"
+StringVar="Venko de la Nivelo"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
 StringVar="Aktivigu Kristalon por Pluiri"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
-StringVar="Pluiru al Venonta Nivelo"
+StringVar="Al la Sekva Nivelo"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
 StringVar="Fina Ondo!"
@@ -14,7 +14,7 @@ StringVar="Fina Ondo!"
 StringVar="Ondo kun Estro!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Prizorgu la Vivernojn!"
+StringVar="Atentu pri la Vivernoj!"
 
 [TheWorld:PersistentLevel.WorldInfo_2.DunDefMapInfo_1 DunDefMapInfo]
 DefaultMissionObjectiveText="Venku ĉiun, kaj atingu la Poentlimon!"
