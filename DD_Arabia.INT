@@ -20,10 +20,10 @@ StringVar="Ondo kun Estro!"
 StringVar="Atentu pri la Vivernoj!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_CoreVictoryEvent_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Collected Moraggo Eternia Shard!"
+!!StringVar="Collected Moraggo Eternia Shard!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Defeat the Djinn, then quickly rub their lamps to convert them to your team!"
+!!StringVar="Defeat the Djinn, then quickly rub their lamps to convert them to your team!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners_Seq.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString] - 
 StringVar="La Estro Alproksimiĝas..."
