@@ -8,7 +8,7 @@ StringVar="Aktivigu Kristalon por Pluiri"
 StringVar="Al la Sekva Nivelo"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
-StringVar="Fina Ondo!"
+StringVar="Lasta Ondo!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
 StringVar="Ondo kun Estro!"
