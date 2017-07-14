@@ -74,7 +74,7 @@ InfiniteWaveString="Infinite Waves"
 RetrieveString="Retrieving Leaderboards..."
 
 [DunDefGoblin]
-DescriptiveName="Goblin"
+DescriptiveName="Goblino"
 
 [UI_CreateHero]
 MSG_PickNameTitle="Choose name:"
@@ -182,7 +182,7 @@ DetonationResetTimeString="Detonation Reset Time:"
 AttackRangeString="Effective Range:"
 
 [DunDefSkeleton]
-DescriptiveName="Skeleton"
+DescriptiveName="Skeleto"
 
 [HeroEquipment_Familiar]
 ForgedByDescription="Raised By"
@@ -212,10 +212,10 @@ naString="N/A"
 pureStrategyString="Pure Strategy"
 survivalString="Survival"
 highestString="Highest"
-waveString="Wave"
+waveString="Ondo"
 endingsAchieved="Endings Achieved: "
 towerButtonString="Defenses"
-enemyButtonString="Enemies"
+enemyButtonString="Malamikoj"
 treasureButtonString="Treasure"
 generalString="General"
 awardString="Awards"
@@ -233,7 +233,7 @@ lordString="Lord"
 handymanString="HandyMan"
 
 [DunDefDemon]
-DescriptiveName="Demon"
+DescriptiveName="Demono"
 
 [DunDefGameReplicationInfo]
 ScoreAwardPreStrings[1]="Completed Wave"
@@ -251,7 +251,7 @@ ScoreAwardPostStrings[7]="  +"
 ScoreAwardPostStrings[8]="'  +"
 MajorNotificationLabels[0]="        All Players Healed        "
 MajorNotificationLabels[1]="    All Players and Core Healed    "
-MajorNotificationLabels[2]="Wave"
+MajorNotificationLabels[2]="Ondo"
 MajorNotificationLabels[3]="Better Luck Next Time"
 GameOverDescriptionReasons[0]="An Eternia Crystal Was Destroyed!"
 SpectatorWaitString="Waiting For Build Phase To Join. . ."
@@ -636,8 +636,8 @@ totalManaString="Mana Collected"
 mvpString="Most Valuable Hero"
 awardsString="Awards"
 LevelString="Level"
-waveString="Wave"
-enemiesString="Enemies"
+waveString="Ondo"
+enemiesString="Malamikoj"
 spawnedString="Spawned"
 killedString="Killed"
 playerDamageString="Player Damage"
