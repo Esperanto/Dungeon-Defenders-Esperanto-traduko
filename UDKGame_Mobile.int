@@ -58,10 +58,10 @@ BindingDescriptions[16]=(Description="Show Inventory")
 BindingDescriptions[17]=(Description="Open Action Wheel")
 BindingDescriptions[18]=(Description="Use Weapon / Confirm Action")
 BindingDescriptions[19]=(Description="Alternate Weapon Usage")
-BindingDescriptions[20]=(Description="Move")
-BindingDescriptions[21]=(Description="Turn")
+BindingDescriptions[20]=(Description="Moviĝi")
+BindingDescriptions[21]=(Description="Turniĝi")
 BindingDescriptions[22]=(Description="Zoom Camera")
-BindingDescriptions[23]=(Description="Turn")
+BindingDescriptions[23]=(Description="Turniĝi")
 
 [UI_OptionsMenu]
 ControlSchemeName[0]="Strafing Control Scheme"
@@ -274,8 +274,8 @@ MSG_DLCWarningDescription3="Are you sure you want to switch to this level?"
 MSG_DLCWarningTitle="Warning"
 OnStrings[0]="Locked"
 OnStrings[1]="Unlocked"
-StringYes="Yes"
-StringNo="No"
+StringYes="Jes"
+StringNo="Ne"
 
 [UIScriptWidget_HeroSelectionButton]
 LevelString="Level"
@@ -331,7 +331,7 @@ CorruptSaveTitle="Corrupt Save"
 CorruptSaveMsg="Your save was corrupted. Hero backup successful"
 
 [DunDefMapInfo]
-DefaultMissionObjectiveText="Defend the Eternia Crystals!"
+DefaultMissionObjectiveText="Defendu la Eterniajn Kristalojn!"
 LobbyLevelPreDescription="The Tavern of"
 
 [DunDefTower_AuraStickyGloop]
