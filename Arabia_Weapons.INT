@@ -1,40 +1,40 @@
 [Campaign.BoardswordStyle4_Boss HeroEquipment]
-EquipmentName="Kristran?ilo de la Efritoj"
-EquipmentDescription="Mastra glavo farita de la ?inoj"
+EquipmentName="Kristranĉilo de la Efritoj"
+EquipmentDescription="Mastra glavo farita de la ĝinoj"
 
 [Campaign.BroadswordStyle8_EMH HeroEquipment]
 EquipmentName="Tutnigra Falkiono"
 EquipmentDescription="La klingo estas farita el Obsidiano."
 
 [Campaign.CrossbowStyle7_EMH HeroEquipment]
-EquipmentName="Samiel la Senha?tigilo"
+EquipmentName="Samiel la Senhaŭtigilo"
 EquipmentDescription="Kun fiksitaj dentoj de falintoj."
 
 [Campaign.CrossbowStyle8_Boss HeroEquipment]
 EquipmentName="Ibliso de Mil Ventoj"
-EquipmentDescription="La furio de ?tormo pulsas ene."
+EquipmentDescription="La furio de ŝtormo pulsas ene."
 
 [Campaign.MagicStaffStyle4_EMH HeroEquipment]
 EquipmentName="Nemortanta Vergo"
 EquipmentDescription="Malbenita femuro de la Sablaj Ogroj."
 
 [Campaign.MagicStaffStyle7_Boss HeroEquipment]
-EquipmentName="Oftalmo de la ?inre?o"
-EquipmentDescription="Okulo ku?as sur vi..."
+EquipmentName="Oftalmo de la Ĝinreĝo"
+EquipmentDescription="Okulo kuŝas sur vi..."
 
 [Campaign.MonkSpearStyle2_Boss HeroEquipment]
 EquipmentName="Sunkisita Sabro de Junbao"
-EquipmentDescription="La fokusita povo de la suno flamas anta?en."
+EquipmentDescription="La fokusita povo de la suno flamas antaŭen."
 
 [Campaign.MonkSpearStyle9_EMH HeroEquipment]
 EquipmentName="Lumetklinga Cimitaro"
-EquipmentDescription="?ia surfaco estas blindiga."
+EquipmentDescription="Ĝia surfaco estas blindiga."
 
 [Challenge.CrossbowStyle8_EMH HeroEquipment]
 ??EquipmentName="Shai Hulud"
-EquipmentDescription="Terror of the sands."
+!!EquipmentDescription="Terror of the sands."
 
 [Challenge.MagicStaffStyle05 HeroEquipment]
-??EquipmentName="Kristalerbastono de la ?inre?o"
-EquipmentDescription="Brila kristalo, kiu pendas en ?rumpita lango."
+??EquipmentName="Kristalerbastono de la Ĝinreĝo"
+EquipmentDescription="Brila kristalo, kiu pendas en ŝrumpita lango."
 
