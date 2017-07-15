@@ -4,6 +4,7 @@
 Assault_EnemyTowerArchetypes
 Atlantis_DunDefFwyvern
 Atlantis_DunDefSharkMan
+Atlantis_Weapons
 DD_Arabia
 DD_Atlantis
 DD_Caverns
@@ -27,7 +28,6 @@ ServantsQuarters
 estas markitaj per !! kaj ??)
 ===============================
 Arabia_Weapons
-Atlantis_Weapons
 DD_Finale
 DD_Forest1
 DD_Lev_04
