@@ -17,82 +17,82 @@ RandomBaseNames[0]=(StringValue="Konkorompilo")
 RandomBaseNames[1]=(StringValue="Dentradmartelo")
 
 [Campaign.CrossbowStyle2_DLC_Boss HeroEquipment]
-??EquipmentName="The Depth Charge"
+??EquipmentName="La Profundeksplodaĵo"
 EquipmentDescription="Pereo de Akvanoso"
 
 [Campaign.CrossbowStyle2_DLC_Boss_LD HeroEquipment]
-??EquipmentName="The Depth Charge"
+??EquipmentName="La Profundeksplodaĵo"
 RandomBaseNames[0]=(StringValue="Ondostartigilo")
-??RandomBaseNames[1]=(StringValue="Subenspruĉ'")
+??RandomBaseNames[1]=(StringValue="Subenspruĉo")
 EquipmentDescription="Pereo de Akvanoso"
 
 [Campaign.CrossbowStyle3_DLC_EMH HeroEquipment]
-!!EquipmentName="Pressurized Energy Core"
-!!EquipmentDescription="Provides ample electric power"
+??EquipmentName="Alttensia Energikerno"
+EquipmentDescription="Provizas abundan elektran povon"
 
 [Campaign.CrossbowStyle3_DLC_EMH_LD HeroEquipment]
-!!EquipmentName="Pressurized Energy Core"
-!!RandomBaseNames[0]=(StringValue="Sea Shocker")
-!!RandomBaseNames[1]=(StringValue="Eel Zapper")
-!!EquipmentDescription="Provides ample electric power"
+??EquipmentName="Alttensia Energikerno"
+RandomBaseNames[0]=(StringValue="Marŝokilo")
+??RandomBaseNames[1]=(StringValue="Angilĝenilo")
+EquipmentDescription="Provizas abundan elektran povon"
 
 [Campaign.MagicStaffStyle1_DLC_EMH HeroEquipment]
-!!EquipmentName="Xilent's Rhythm Staff"
-!!EquipmentDescription="Pulses to the rhythm of the Deep"
+??EquipmentName="Ritmovergo de Ksilento"
+EquipmentDescription="Pulsas laŭ la ritmo de la Profundo"
 
 [Campaign.MagicStaffStyle1_DLC_EMH_LD HeroEquipment]
-!!EquipmentName="Xilent's Rhythm Staff"
-!!RandomBaseNames[0]=(StringValue="Hydrostaff")
-!!RandomBaseNames[1]=(StringValue="Dowsing Staff")
-!!EquipmentDescription="Pulses to the rhythm of the Deep"
+??EquipmentName="Ritmovergo de Ksilento"
+RandomBaseNames[0]=(StringValue="Hidrovergo")
+RandomBaseNames[1]=(StringValue="Rabdo")
+EquipmentDescription="Pulsas laŭ la ritmo de la Profundo"
 
 [Campaign.MagicStaffStyle3_DLC_Boss HeroEquipment]
-!!EquipmentName="Arronax"
-!!EquipmentDescription="Named after an early explorer of Aquanos."
+??EquipmentName="Arronakso"
+EquipmentDescription="Nomite laŭ frua esploristo de Akvanoso."
 
 [Campaign.MagicStaffStyle3_DLC_Boss_LD HeroEquipment]
-!!EquipmentName="Arronax"
-!!RandomBaseNames[0]=(StringValue="Rod of the Seas")
-!!RandomBaseNames[1]=(StringValue="Tidal Staff")
-!!EquipmentDescription="Named after an early explorer of Aquanos."
+??EquipmentName="Arronakso"
+RandomBaseNames[0]=(StringValue="Stango de la Maroj")
+RandomBaseNames[1]=(StringValue="Tajda Vergo")
+EquipmentDescription="Nomite laŭ frua esploristo de Akvanoso."
 
 [Campaign.MonkSpearStyle6_DLC_Boss HeroEquipment]
-!!EquipmentName="Lemurian Halberd"
-!!EquipmentDescription="Caked in grime from the dark seas"
+??EquipmentName="Lemuria Lanco"
+EquipmentDescription="Kovrite de koto el la malhelaj maroj"
 
 [Campaign.MonkSpearStyle6_DLC_Boss_LD HeroEquipment]
-!!EquipmentName="Lemurian Halberd"
-!!RandomBaseNames[0]=(StringValue="Barnacled Pike")
-!!RandomBaseNames[1]=(StringValue="Sea Spear")
-!!EquipmentDescription="Caked in grime from the dark seas"
+??EquipmentName="Lemuria Lanco"
+RandomBaseNames[0]=(StringValue="Ciripedplena Piko")
+RandomBaseNames[1]=(StringValue="Marlanco")
+EquipmentDescription="Kovrite de koto el la malhelaj maroj"
 
 [Campaign.MonkSpearStyle7_DLC_EMH HeroEquipment]
-!!EquipmentName="Kelp Harvester"
-!!EquipmentDescription="Plants vs Blades."
+EquipmentName="Rikoltilo de Brunalgoj"
+EquipmentDescription="Plantoj kontraŭ Klingoj."
 
 [Campaign.MonkSpearStyle7_DLC_EMH_LD HeroEquipment]
-!!EquipmentName="Kelp Harvester"
-!!RandomBaseNames[0]=(StringValue="Aqua Lance")
-!!RandomBaseNames[1]=(StringValue="Hydrospear")
-!!EquipmentDescription="Plants vs Blades."
+EquipmentName="Rikoltilo de Brunalgoj"
+RandomBaseNames[0]=(StringValue="Akvolanco")
+RandomBaseNames[1]=(StringValue="Hidrolanco")
+EquipmentDescription="Plantoj kontraŭ Klingoj."
 
 [Challenge.BroadswordStyle3_DLC HeroEquipment]
-!!EquipmentName="Kraken Fang"
-!!EquipmentDescription="Ripped straight from the glowing maw. "
+EquipmentName="Kojnodento de Krakeno"
+EquipmentDescription="Ŝirite rekte el la brila faŭko. "
 
 [Challenge.BroadswordStyle3_DLC_LD HeroEquipment]
-!!EquipmentName="Kraken Fang"
-!!RandomBaseNames[0]=(StringValue="Crab Stabber")
-!!RandomBaseNames[1]=(StringValue="Oceanic Bite")
-!!EquipmentDescription="Ripped straight from the glowing maw. "
+EquipmentName="Kojnodento de Krakeno"
+RandomBaseNames[0]=(StringValue="Krabopikilo")
+RandomBaseNames[1]=(StringValue="Oceana Mordo")
+EquipmentDescription="Ŝirite rekte el la brila faŭko. "
 
 [Challenge.CrossbowStyle4_DLC HeroEquipment]
-!!EquipmentName="Everflame of the Nautilus"
-!!EquipmentDescription="Emits alchemical fire."
+??EquipmentName="Eternflamo de la Naŭtilo"
+EquipmentDescription="Ellasas alkemian fajron."
 
 [Challenge.CrossbowStyle4_DLC_LD HeroEquipment]
-!!EquipmentName="Everflame of the Nautilus"
-!!RandomBaseNames[0]=(StringValue="Flamewave")
-!!RandomBaseNames[1]=(StringValue="Flash Boiler")
-!!EquipmentDescription="Emits alchemical fire."
+??EquipmentName="Eternflamo de la Naŭtilo"
+RandomBaseNames[0]=(StringValue="Flamondo")
+RandomBaseNames[1]=(StringValue="Ekboligilo")
+EquipmentDescription="Ellasas alkemian fajron."
 
