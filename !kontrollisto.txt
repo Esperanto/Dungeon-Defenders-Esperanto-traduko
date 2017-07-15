@@ -4,13 +4,21 @@
 Assault_EnemyTowerArchetypes
 Atlantis_DunDefFwyvern
 Atlantis_DunDefSharkMan
+DD_Arabia
+DD_Atlantis
+DD_Caverns
 DD_HallOfHeroes
+DD_Lev_05
+DD_Lev_06_WIP_TEST
 DD_Oasis
 DD_TheRamparts
+DD_TheSpires
 DjinnArchetypes
 DunDefDragonBoss
 GenieBossArchetypes
 KrakenArchetypes
+Leaderboards
+ServantsQuarters
 
 
 ===============================
@@ -19,20 +27,12 @@ KrakenArchetypes
 estas markitaj per !! kaj ??)
 ===============================
 Arabia_Weapons
-DD_Arabia
-DD_Atlantis
-DD_Caverns
 DD_Finale
 DD_Forest1
 DD_Lev_04
-DD_Lev_05
-DD_Lev_06_WIP_TEST
 DD_RoyalGardens
-DD_TheSpires
 DD_ThroneRoom
 Event_Xmas
-Leaderboards
-ServantsQuarters
 TestMap_DD_Shell_04
 
 
