@@ -32,7 +32,7 @@ EquipmentDescription="Ĝia surfaco estas blindiga."
 
 [Challenge.CrossbowStyle8_EMH HeroEquipment]
 ??EquipmentName="Shai Hulud"
-!!EquipmentDescription="Terror of the sands."
+??EquipmentDescription="Teruraĵo de la sablo."
 
 [Challenge.MagicStaffStyle05 HeroEquipment]
 ??EquipmentName="Kristalerbastono de la Ĝinreĝo"
