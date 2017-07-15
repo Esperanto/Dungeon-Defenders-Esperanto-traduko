@@ -27,6 +27,7 @@ ServantsQuarters
 estas markitaj per !! kaj ??)
 ===============================
 Arabia_Weapons
+Atlantis_Weapons
 DD_Finale
 DD_Forest1
 DD_Lev_04
@@ -39,7 +40,6 @@ TestMap_DD_Shell_04
 ===============================
     TRADUKENDAJ DOSIEROJ:
 ===============================
-Atlantis_Weapons
 DD_Entryway_03
 DD_Lev_02
 DunDefArchetypes
