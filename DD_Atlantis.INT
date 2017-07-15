@@ -20,16 +20,16 @@ StringVar="Ondo kun Estro!"
 StringVar="Atentu pri la Fiŝ-vivernoj!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Save Aquanos before the water rises!"
+StringVar="Savu Akvanoson antaŭ ol la akvo altiĝas!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelVictory.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Collected Aquanos Eternia Shard!"
+StringVar="Vi kolektis la Eternian Fragmenton el Akvanoso!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
 StringVar="La Estro Alproksimiĝas..."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
-StringVar="Kraken"
+StringVar="Krakeno"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_2 DunDef_SeqVar_LocalizedString]
 StringVar="Estro Venkita!"
