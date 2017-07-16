@@ -288,7 +288,7 @@ MaxHealthString="Maks. Vivo"
 enemiesString="Malamikoj:"
 
 [DunDefPlayer]
-ActivationString="View Hero Info"
+ActivationString="Vidi Heroinformojn"
 HealthString="Health:"
 manaString="Mana:"
 
