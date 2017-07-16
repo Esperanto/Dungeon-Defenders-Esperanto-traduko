@@ -87,11 +87,11 @@ RandomBaseNames[1]=(StringValue="Oceana Mordo")
 EquipmentDescription="Ŝirite rekte el la brila faŭko. "
 
 [Challenge.CrossbowStyle4_DLC HeroEquipment]
-EquipmentName="Eternflamo de la Naŭtilo"
+EquipmentName="Eternoflamo de la Naŭtilo"
 EquipmentDescription="Ellasas alkemian fajron."
 
 [Challenge.CrossbowStyle4_DLC_LD HeroEquipment]
-EquipmentName="Eternflamo de la Naŭtilo"
+EquipmentName="Eternoflamo de la Naŭtilo"
 RandomBaseNames[0]=(StringValue="Flamondo")
 RandomBaseNames[1]=(StringValue="Ekboligilo")
 EquipmentDescription="Ellasas alkemian fajron."
