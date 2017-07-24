@@ -26,7 +26,7 @@ DescriptiveName="Deadly Striker Tower"
 DescriptiveName="Proximity Mine Trap"
 
 [EnemyWyvern DunDefWyvern]
-DescriptiveName="Viverno"
+DescriptiveName="Wyvern"
 
 [DunDefCrystalCoreArch DunDefCrystalCore]
 DescriptiveName="Eternia Crystal"

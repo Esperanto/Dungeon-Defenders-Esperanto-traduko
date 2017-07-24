@@ -1,71 +1,71 @@
 [EquipmentGeneric.HelmetArmorBase_Pristine HeroEquipment]
 EquipmentName="Leg Armor Base"
-EquipmentDescription="Sendifekta Armaĵo"
-RandomBaseNames[0]=(StringValue="Sendifekta Helmo")
-RandomBaseNames[1]=(StringValue="Sendifekta Kasko")
-RandomBaseNames[2]=(StringValue="Sendifekta Masko")
-RandomBaseNames[3]=(StringValue="Sendifekta Kapuĉo")
-RandomBaseNames[4]=(StringValue="Sendifekta Ĉapo")
+EquipmentDescription="Pristine Type Armor"
+RandomBaseNames[0]=(StringValue="Pristine Helm")
+RandomBaseNames[1]=(StringValue="Pristine Helmet")
+RandomBaseNames[2]=(StringValue="Pristine Mask")
+RandomBaseNames[3]=(StringValue="Pristine Hood")
+RandomBaseNames[4]=(StringValue="Pristine Cap")
 
 [EquipmentGeneric.TorsoArmorBase_Pristine HeroEquipment]
 EquipmentName="Torso Armor Base"
-EquipmentDescription="Sendifekta Armaĵo"
-RandomBaseNames[0]=(StringValue="Sendifekta Veŝto")
-RandomBaseNames[1]=(StringValue="Sendifekta Ĉemizo")
-RandomBaseNames[2]=(StringValue="Sendifekta Mantelo")
+EquipmentDescription="Pristine Type Armor"
+RandomBaseNames[0]=(StringValue="Pristine Vest")
+RandomBaseNames[1]=(StringValue="Pristine Shirt")
+RandomBaseNames[2]=(StringValue="Pristine Coat")
 
 [EquipmentSquire.BroadswordStyle6 HeroEquipment]
-EquipmentName="Hakilo"
+EquipmentName="Axe"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
-RandomBaseNames[0]=(StringValue="Giant Hakilo")
+RandomBaseNames[0]=(StringValue="Giant Axe")
 RandomBaseNames[1]=(StringValue="Beast Master")
 RandomBaseNames[2]=(StringValue="Hatchet")
 RandomBaseNames[3]=(StringValue="Chopper")
-RandomBaseNames[4]=(StringValue="Battle Hakilo")
+RandomBaseNames[4]=(StringValue="Battle Axe")
 RandomBaseNames[5]=(StringValue="Slayer")
-RandomBaseNames[6]=(StringValue="Warlord's Hakilo")
-RandomBaseNames[7]=(StringValue="Protector's Hakilo")
+RandomBaseNames[6]=(StringValue="Warlord's Axe")
+RandomBaseNames[7]=(StringValue="Protector's Axe")
 RandomBaseNames[8]=(StringValue="Guillotine")
 RandomBaseNames[9]=(StringValue="Enforcer")
 
 [EquipmentGeneric.HelmetArmorBase_Plate HeroEquipment]
 EquipmentName="Leg Armor Base"
-EquipmentDescription="Plata Armaĵo"
-RandomBaseNames[0]=(StringValue="Plata Helmo")
-RandomBaseNames[1]=(StringValue="Plata Kasko")
-RandomBaseNames[2]=(StringValue="Plata Masko")
-RandomBaseNames[3]=(StringValue="Plata Kapuĉo")
-RandomBaseNames[4]=(StringValue="Plata Ĉapo")
+EquipmentDescription="Plate Type Armor"
+RandomBaseNames[0]=(StringValue="Plate Helm")
+RandomBaseNames[1]=(StringValue="Plate Helmet")
+RandomBaseNames[2]=(StringValue="Plate Mask")
+RandomBaseNames[3]=(StringValue="Plate Hood")
+RandomBaseNames[4]=(StringValue="Plate Cap")
 
 [EquipmentGeneric.HelmetArmorBase_Leather HeroEquipment]
 EquipmentName="Leg Armor Base"
-EquipmentDescription="Leda Armaĵo"
-RandomBaseNames[0]=(StringValue="Leda Helmo")
-RandomBaseNames[1]=(StringValue="Leda Kasko")
-RandomBaseNames[2]=(StringValue="Leda Masko")
-RandomBaseNames[3]=(StringValue="Leda Kapuĉo")
-RandomBaseNames[4]=(StringValue="Leda Ĉapo")
+EquipmentDescription="Leather Type Armor"
+RandomBaseNames[0]=(StringValue="Leather Helm")
+RandomBaseNames[1]=(StringValue="Leather Helmet")
+RandomBaseNames[2]=(StringValue="Leather Mask")
+RandomBaseNames[3]=(StringValue="Leather Hood")
+RandomBaseNames[4]=(StringValue="Leather Cap")
 
 [EquipmentSquire.BroadswordStyle8 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
 RandomBaseNames[0]=(StringValue="Ice Pick")
-RandomBaseNames[1]=(StringValue="Crystalline Glavo")
+RandomBaseNames[1]=(StringValue="Crystalline Sword")
 RandomBaseNames[2]=(StringValue="Lucid Dream")
-RandomBaseNames[3]=(StringValue="Etherial Klingo")
-RandomBaseNames[4]=(StringValue="Runa Klingo")
+RandomBaseNames[3]=(StringValue="Etherial Blade")
+RandomBaseNames[4]=(StringValue="Runic Blade")
 RandomBaseNames[5]=(StringValue="Eternia Shard")
 RandomBaseNames[6]=(StringValue="Fragmentor")
-RandomBaseNames[7]=(StringValue="Nexus Klingo")
+RandomBaseNames[7]=(StringValue="Nexus Blade")
 RandomBaseNames[8]=(StringValue="Primal Fear")
 RandomBaseNames[9]=(StringValue="Tribal Terror")
 
 [EquipmentHuntress.CrossbowStyle8 HeroEquipment]
 EquipmentName="Bow"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Crying Devil")
 RandomBaseNames[1]=(StringValue="Skeleton Bow")
 RandomBaseNames[2]=(StringValue="Hellraiser")
@@ -79,30 +79,30 @@ RandomBaseNames[9]=(StringValue="Enbalmer")
 
 [EquipmentGeneric.BootsArmorBase_Mail HeroEquipment]
 EquipmentName="Boots Base"
-EquipmentDescription="Maŝ-armaĵoj"
-RandomBaseNames[0]=(StringValue="Maŝaj Botoj")
-RandomBaseNames[1]=(StringValue="Maŝaj Ŝuoj")
-RandomBaseNames[2]=(StringValue="Maŝa Cleats")
-RandomBaseNames[3]=(StringValue="Maŝa Greaves")
-RandomBaseNames[4]=(StringValue="Maŝa Stompers")
-RandomBaseNames[5]=(StringValue="Maŝa Savattes")
+EquipmentDescription="Mail Type Armor"
+RandomBaseNames[0]=(StringValue="Mail Boots")
+RandomBaseNames[1]=(StringValue="Mail Shoes")
+RandomBaseNames[2]=(StringValue="Mail Cleats")
+RandomBaseNames[3]=(StringValue="Mail Greaves")
+RandomBaseNames[4]=(StringValue="Mail Stompers")
+RandomBaseNames[5]=(StringValue="Mail Savattes")
 
 [EquipmentGeneric.GauntletArmorBase_Leather HeroEquipment]
 EquipmentName="Gauntlet Base"
-EquipmentDescription="Leda Armaĵo"
-RandomBaseNames[0]=(StringValue="Leda Gantoj")
-RandomBaseNames[1]=(StringValue="Leda Gauntlets")
-RandomBaseNames[2]=(StringValue="Leda Mitts")
-RandomBaseNames[3]=(StringValue="Leda Bracers")
-RandomBaseNames[4]=(StringValue="Leda Grips")
-RandomBaseNames[5]=(StringValue="Leda Handguards")
+EquipmentDescription="Leather Type Armor"
+RandomBaseNames[0]=(StringValue="Leather Gloves")
+RandomBaseNames[1]=(StringValue="Leather Gauntlets")
+RandomBaseNames[2]=(StringValue="Leather Mitts")
+RandomBaseNames[3]=(StringValue="Leather Bracers")
+RandomBaseNames[4]=(StringValue="Leather Grips")
+RandomBaseNames[5]=(StringValue="Leather Handguards")
 
 [EquipmentMonk.MonkSpearStyle4 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Dragon Biter")
-RandomBaseNames[1]=(StringValue="Scaled Dragon Hakilo")
+RandomBaseNames[1]=(StringValue="Scaled Dragon Axe")
 RandomBaseNames[2]=(StringValue="Dragon Axe of Doom")
 RandomBaseNames[3]=(StringValue="Doom Skewer")
 RandomBaseNames[4]=(StringValue="Double Dragon")
@@ -128,9 +128,9 @@ RandomBaseNames[8]=(StringValue="Half-moon")
 RandomBaseNames[9]=(StringValue="Salience")
 
 [EquipmentMonk.MonkSpearStyle6 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Libra's Gust")
 RandomBaseNames[1]=(StringValue="Gemini's Pike")
 RandomBaseNames[2]=(StringValue="Aquarius's Gale")
@@ -143,13 +143,13 @@ RandomBaseNames[8]=(StringValue="Stratos")
 RandomBaseNames[9]=(StringValue="Zephyr")
 
 [EquipmentSquire.BroadswordStyle3 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
 RandomBaseNames[0]=(StringValue="Gladius")
 RandomBaseNames[1]=(StringValue="Spatha")
 RandomBaseNames[2]=(StringValue="Xiphos")
-RandomBaseNames[3]=(StringValue="Short Glavo")
+RandomBaseNames[3]=(StringValue="Short Sword")
 RandomBaseNames[4]=(StringValue="Falchion")
 RandomBaseNames[5]=(StringValue="Leonidas")
 RandomBaseNames[6]=(StringValue="Edge")
@@ -158,24 +158,24 @@ RandomBaseNames[8]=(StringValue="Espadon")
 RandomBaseNames[9]=(StringValue="Maximus")
 
 [EquipmentMage.MagicStaffStyle3 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
-RandomBaseNames[0]=(StringValue="Crimson Skull Sorĉbastono")
+RandomBaseNames[0]=(StringValue="Crimson Skull Staff")
 RandomBaseNames[1]=(StringValue="Animosity")
 RandomBaseNames[2]=(StringValue="Grievance")
 RandomBaseNames[3]=(StringValue="Carnal Prophecy")
 RandomBaseNames[4]=(StringValue="Malevolence")
 RandomBaseNames[5]=(StringValue="Repulsor")
-RandomBaseNames[6]=(StringValue="Villian's Kano")
+RandomBaseNames[6]=(StringValue="Villian's Cane")
 RandomBaseNames[7]=(StringValue="Wicked Crystal")
-RandomBaseNames[8]=(StringValue="Vile Sorĉbastono")
+RandomBaseNames[8]=(StringValue="Vile Staff")
 RandomBaseNames[9]=(StringValue="Sufferance")
 
 [EquipmentHuntress.CrossbowStyle11 HeroEquipment]
 EquipmentName="Gun"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Spinner")
 RandomBaseNames[1]=(StringValue="Razorback")
 RandomBaseNames[2]=(StringValue="Spiker")
@@ -188,17 +188,17 @@ RandomBaseNames[8]=(StringValue="Back Biter")
 RandomBaseNames[9]=(StringValue="Pain Pincher")
 
 [EquipmentMonk.MonkSpearStyle11 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Finally's Votive")
 RandomBaseNames[1]=(StringValue="Holistic Disipline")
 RandomBaseNames[2]=(StringValue="Deliverance")
-RandomBaseNames[3]=(StringValue="Forrevulo")
+RandomBaseNames[3]=(StringValue="Day Dreamer")
 RandomBaseNames[4]=(StringValue="Zazen")
 RandomBaseNames[5]=(StringValue="Zanbato")
 RandomBaseNames[6]=(StringValue="Miao Dao")
-RandomBaseNames[7]=(StringValue="Shaolin Glavo")
+RandomBaseNames[7]=(StringValue="Shaolin Sword")
 RandomBaseNames[8]=(StringValue="Enlightenment")
 RandomBaseNames[9]=(StringValue="Koan's Answer")
 
@@ -211,7 +211,7 @@ RandomBaseNames[1]=(StringValue="Samurai's Spirit")
 RandomBaseNames[2]=(StringValue="Daimyo's Dicer")
 RandomBaseNames[3]=(StringValue="Shogun's Slicer")
 RandomBaseNames[4]=(StringValue="Masamune")
-RandomBaseNames[5]=(StringValue="Hanzo Klingo")
+RandomBaseNames[5]=(StringValue="Hanzo Blade")
 RandomBaseNames[6]=(StringValue="Musashi's Teaching")
 RandomBaseNames[7]=(StringValue="Shinsengumi's Command")
 RandomBaseNames[8]=(StringValue="Curved Cutter")
@@ -220,7 +220,7 @@ RandomBaseNames[9]=(StringValue="Wakizashi")
 [EquipmentHuntress.CrossbowStyle10 HeroEquipment]
 EquipmentName="Javahawk"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Phoenix")
 RandomBaseNames[1]=(StringValue="Firebird")
 RandomBaseNames[2]=(StringValue="Fowl Fiend")
@@ -233,14 +233,14 @@ RandomBaseNames[8]=(StringValue="CaKaw")
 RandomBaseNames[9]=(StringValue="Son of Osiris")
 
 [EquipmentSquire.BroadswordStyle2 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
 RandomBaseNames[0]=(StringValue="Broadsword")
 RandomBaseNames[1]=(StringValue="Tyrfing")
 RandomBaseNames[2]=(StringValue="Fearsome Foil")
 RandomBaseNames[3]=(StringValue="Balmung")
-RandomBaseNames[4]=(StringValue="Viking Klingo")
+RandomBaseNames[4]=(StringValue="Viking Blade")
 RandomBaseNames[5]=(StringValue="Raider's Rapier")
 RandomBaseNames[6]=(StringValue="Epee")
 RandomBaseNames[7]=(StringValue="Pillager's Pata")
@@ -263,9 +263,9 @@ RandomBaseNames[8]=(StringValue="War Hammer")
 RandomBaseNames[9]=(StringValue="Death Blow")
 
 [EquipmentMonk.MonkSpearStyle5 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Royal Spire")
 RandomBaseNames[1]=(StringValue="Sinister Spike")
 RandomBaseNames[2]=(StringValue="Naginata")
@@ -274,140 +274,140 @@ RandomBaseNames[4]=(StringValue="Longinus")
 RandomBaseNames[5]=(StringValue="Kontos")
 RandomBaseNames[6]=(StringValue="Pike")
 RandomBaseNames[7]=(StringValue="Qiang")
-RandomBaseNames[8]=(StringValue="Long-bladed Lanco")
+RandomBaseNames[8]=(StringValue="Long-bladed Spear")
 RandomBaseNames[9]=(StringValue="Yari")
 
 [EquipmentGeneric.GauntletArmorBase_Mail HeroEquipment]
 EquipmentName="Gauntlet Base"
-EquipmentDescription="Maŝa Armaĵo"
-RandomBaseNames[0]=(StringValue="Maŝaj Gantoj")
-RandomBaseNames[1]=(StringValue="Maŝaj Gauntlets")
-RandomBaseNames[2]=(StringValue="Maŝaj Mitts")
-RandomBaseNames[3]=(StringValue="Maŝaj Bracers")
-RandomBaseNames[4]=(StringValue="Maŝaj Grips")
-RandomBaseNames[5]=(StringValue="Maŝaj Handguards")
+EquipmentDescription="Mail Type Armor"
+RandomBaseNames[0]=(StringValue="Mail Gloves")
+RandomBaseNames[1]=(StringValue="Mail Gauntlets")
+RandomBaseNames[2]=(StringValue="Mail Mitts")
+RandomBaseNames[3]=(StringValue="Mail Bracers")
+RandomBaseNames[4]=(StringValue="Mail Grips")
+RandomBaseNames[5]=(StringValue="Mail Handguards")
 
 [EquipmentMage.MagicStaffStyle2 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
-RandomBaseNames[0]=(StringValue="Agla Lanco")
-RandomBaseNames[1]=(StringValue="Flugila Anĝelo")
+RandomBaseNames[0]=(StringValue="Eagle Spear")
+RandomBaseNames[1]=(StringValue="Winged Angel")
 RandomBaseNames[2]=(StringValue="Air Lambaste")
-RandomBaseNames[3]=(StringValue="Noble Sorĉbastono")
+RandomBaseNames[3]=(StringValue="Noble Staff")
 RandomBaseNames[4]=(StringValue="Seraphim")
-RandomBaseNames[5]=(StringValue="Heavenly Sceptro")
-RandomBaseNames[6]=(StringValue="Paradise Sorĉbastono")
+RandomBaseNames[5]=(StringValue="Heavenly Sceptre")
+RandomBaseNames[6]=(StringValue="Paradise Staff")
 RandomBaseNames[7]=(StringValue="Aquila")
 RandomBaseNames[8]=(StringValue="Nirvana")
 RandomBaseNames[9]=(StringValue="Mal'akh")
 
 [EquipmentHuntress.CrossbowStyle3 HeroEquipment]
-EquipmentName="Arbalesto"
+EquipmentName="Crossbow"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
-RandomBaseNames[0]=(StringValue="Militarko")
+EquipmentDescription="Usable by Huntress"
+RandomBaseNames[0]=(StringValue="Warbow")
 RandomBaseNames[1]=(StringValue="Shield Bow")
 RandomBaseNames[2]=(StringValue="Gastraphetes")
 RandomBaseNames[3]=(StringValue="Arcuballista")
 RandomBaseNames[4]=(StringValue="Chu-Ko-Nu")
-RandomBaseNames[5]=(StringValue="Recurve Arbalesto")
+RandomBaseNames[5]=(StringValue="Recurve Crossbow")
 RandomBaseNames[6]=(StringValue="Arbalest")
-RandomBaseNames[7]=(StringValue="Repeating Arbalesto")
+RandomBaseNames[7]=(StringValue="Repeating Crossbow")
 RandomBaseNames[8]=(StringValue="Bolter")
-RandomBaseNames[9]=(StringValue="Heavy Arbalesto")
+RandomBaseNames[9]=(StringValue="Heavy Crossbow")
 
 [EquipmentHuntress.CrossbowStyle2 HeroEquipment]
 EquipmentName="Gun"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Blunderbuss")
-RandomBaseNames[1]=(StringValue="Duelisto")
+RandomBaseNames[1]=(StringValue="Dueler")
 RandomBaseNames[2]=(StringValue="Boomstick")
 RandomBaseNames[3]=(StringValue="Flintlock")
 RandomBaseNames[4]=(StringValue="Oshicat")
 RandomBaseNames[5]=(StringValue="Shotgun")
 RandomBaseNames[6]=(StringValue="Musket")
 RandomBaseNames[7]=(StringValue="Arquebus")
-RandomBaseNames[8]=(StringValue="Mankanono")
-RandomBaseNames[9]=(StringValue="Pistolo")
+RandomBaseNames[8]=(StringValue="Hand Cannon")
+RandomBaseNames[9]=(StringValue="Pistol")
 
 [EquipmentSquire.BroadswordStyle1 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
-RandomBaseNames[0]=(StringValue="Training Glavo")
-RandomBaseNames[1]=(StringValue="Bronze Glavo")
-RandomBaseNames[2]=(StringValue="Steel Glavo")
-RandomBaseNames[3]=(StringValue="Training Klingo")
-RandomBaseNames[4]=(StringValue="Bronze Klingo")
-RandomBaseNames[5]=(StringValue="Steel Klingo")
+RandomBaseNames[0]=(StringValue="Training Sword")
+RandomBaseNames[1]=(StringValue="Bronze Sword")
+RandomBaseNames[2]=(StringValue="Steel Sword")
+RandomBaseNames[3]=(StringValue="Training Blade")
+RandomBaseNames[4]=(StringValue="Bronze Blade")
+RandomBaseNames[5]=(StringValue="Steel Blade")
 RandomBaseNames[6]=(StringValue="Training Edge")
 RandomBaseNames[7]=(StringValue="Bronze Edge")
 RandomBaseNames[8]=(StringValue="Steel Edge")
-RandomBaseNames[9]=(StringValue="Olimpo")
+RandomBaseNames[9]=(StringValue="Olympus")
 
 [EquipmentMonk.MonkSpearStyle9 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Chunqiu")
 RandomBaseNames[1]=(StringValue="Deadly Dadao")
 RandomBaseNames[2]=(StringValue="Death Dealer")
 RandomBaseNames[3]=(StringValue="Niuweidao")
-RandomBaseNames[4]=(StringValue="Marserpento")
-RandomBaseNames[5]=(StringValue="Ŝarka Dento")
+RandomBaseNames[4]=(StringValue="Sea Serpent")
+RandomBaseNames[5]=(StringValue="Shark Tooth")
 RandomBaseNames[6]=(StringValue="Slashing Scimitar")
 RandomBaseNames[7]=(StringValue="Sleeping Sabre")
-RandomBaseNames[8]=(StringValue="Oceanondo")
-RandomBaseNames[9]=(StringValue="Papilia Klingo")
+RandomBaseNames[8]=(StringValue="Ocean's Wave")
+RandomBaseNames[9]=(StringValue="Butterfly Blade")
 
 [EquipmentGeneric.TorsoArmorBase_Mail HeroEquipment]
 EquipmentName="Torso Armor Base"
-EquipmentDescription="Maŝa Armaĵo"
-RandomBaseNames[0]=(StringValue="Maŝa Veŝto")
-RandomBaseNames[1]=(StringValue="Maŝa Ĉemizo")
-RandomBaseNames[2]=(StringValue="Maŝa Mantelo")
+EquipmentDescription="Mail Type Armor"
+RandomBaseNames[0]=(StringValue="Mail Vest")
+RandomBaseNames[1]=(StringValue="Mail Shirt")
+RandomBaseNames[2]=(StringValue="Mail Coat")
 
 [EquipmentGeneric.GauntletArmorBase_Pristine HeroEquipment]
 EquipmentName="Gauntlet Base"
-EquipmentDescription="Sendifekta Armaĵo"
-RandomBaseNames[0]=(StringValue="Sendifektaj Gantoj")
-RandomBaseNames[1]=(StringValue="Sendifektaj Gauntlets")
-RandomBaseNames[2]=(StringValue="Sendifektaj Mitts")
-RandomBaseNames[3]=(StringValue="Sendifektaj Bracers")
-RandomBaseNames[4]=(StringValue="Sendifektaj Grips")
-RandomBaseNames[5]=(StringValue="Sendifektaj Handguards")
+EquipmentDescription="Pristine Type Armor"
+RandomBaseNames[0]=(StringValue="Pristine Gloves")
+RandomBaseNames[1]=(StringValue="Pristine Gauntlets")
+RandomBaseNames[2]=(StringValue="Pristine Mitts")
+RandomBaseNames[3]=(StringValue="Pristine Bracers")
+RandomBaseNames[4]=(StringValue="Pristine Grips")
+RandomBaseNames[5]=(StringValue="Pristine Handguards")
 
 [EquipmentGeneric.GauntletArmorBase_Plate HeroEquipment]
 EquipmentName="Gauntlet Base"
-EquipmentDescription="Plata Armaĵo"
-RandomBaseNames[0]=(StringValue="Plataj Gantoj")
-RandomBaseNames[1]=(StringValue="Plataj Gauntlets")
-RandomBaseNames[2]=(StringValue="Plataj Mitts")
-RandomBaseNames[3]=(StringValue="Plataj Bracers")
-RandomBaseNames[4]=(StringValue="Plataj Grips")
-RandomBaseNames[5]=(StringValue="Plataj Handguards")
+EquipmentDescription="Plate Type Armor"
+RandomBaseNames[0]=(StringValue="Plate Gloves")
+RandomBaseNames[1]=(StringValue="Plate Gauntlets")
+RandomBaseNames[2]=(StringValue="Plate Mitts")
+RandomBaseNames[3]=(StringValue="Plate Bracers")
+RandomBaseNames[4]=(StringValue="Plate Grips")
+RandomBaseNames[5]=(StringValue="Plate Handguards")
 
 [EquipmentHuntress.CrossbowStyle5 HeroEquipment]
-EquipmentName="Arbalesto"
+EquipmentName="Crossbow"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Thorn Bow")
 RandomBaseNames[1]=(StringValue="Spiked Dragoon")
 RandomBaseNames[2]=(StringValue="Violent Bolter")
 RandomBaseNames[3]=(StringValue="Darkness Bow")
 RandomBaseNames[4]=(StringValue="Hornet")
 RandomBaseNames[5]=(StringValue="Stag's Antler")
-RandomBaseNames[6]=(StringValue="Royal Arbalesto")
+RandomBaseNames[6]=(StringValue="Royal Crossbow")
 RandomBaseNames[7]=(StringValue="Violet Piercer")
 RandomBaseNames[8]=(StringValue="Spiker")
-RandomBaseNames[9]=(StringValue="Chitin Arbalesto")
+RandomBaseNames[9]=(StringValue="Chitin Crossbow")
 
 [EquipmentMonk.MonkSpearStyle3 HeroEquipment]
 EquipmentName="Mace"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Morning Star")
 RandomBaseNames[1]=(StringValue="Mace")
 RandomBaseNames[2]=(StringValue="Kobold Krusher")
@@ -422,7 +422,7 @@ RandomBaseNames[9]=(StringValue="Brutal Basher")
 [EquipmentHuntress.CrossbowStyle6 HeroEquipment]
 EquipmentName="Gun"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Dragon Cannon")
 RandomBaseNames[1]=(StringValue="Devil's Breath")
 RandomBaseNames[2]=(StringValue="Redemption")
@@ -435,68 +435,68 @@ RandomBaseNames[8]=(StringValue="Fire Breather")
 RandomBaseNames[9]=(StringValue="Wyrm")
 
 [EquipmentMage.MagicStaffStyle1 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
-RandomBaseNames[0]=(StringValue="Ligna Sorĉbastono")
-RandomBaseNames[1]=(StringValue="Ligna Branĉo")
-RandomBaseNames[2]=(StringValue="Ligna Kano")
-RandomBaseNames[3]=(StringValue="Gnarled Sorĉbastono")
-RandomBaseNames[4]=(StringValue="Gnarled Branĉo")
-RandomBaseNames[5]=(StringValue="Gnarled Kano")
-RandomBaseNames[6]=(StringValue="Twisted Sorĉbastono")
-RandomBaseNames[7]=(StringValue="Twisted Branĉo")
-RandomBaseNames[8]=(StringValue="Twisted Kano")
-RandomBaseNames[9]=(StringValue="Magia Sorĉbastono")
+RandomBaseNames[0]=(StringValue="Wooden Staff")
+RandomBaseNames[1]=(StringValue="Wooden Stick")
+RandomBaseNames[2]=(StringValue="Wooden Cane")
+RandomBaseNames[3]=(StringValue="Gnarled Staff")
+RandomBaseNames[4]=(StringValue="Gnarled Stick")
+RandomBaseNames[5]=(StringValue="Gnarled Cane")
+RandomBaseNames[6]=(StringValue="Twisted Staff")
+RandomBaseNames[7]=(StringValue="Twisted Stick")
+RandomBaseNames[8]=(StringValue="Twisted Cane")
+RandomBaseNames[9]=(StringValue="Magic Staff")
 
 [WeaponEquipmentBase HeroEquipment]
 EquipmentName="Weapon Equipment Base"
-RandomBaseNames[0]=(StringValue="Sorĉbastono")
+RandomBaseNames[0]=(StringValue="Staff")
 RandomBaseNames[1]=(StringValue="Stave")
-RandomBaseNames[2]=(StringValue="Branĉo")
+RandomBaseNames[2]=(StringValue="Stick")
 
 [EquipmentGeneric.BootsArmorBase_Plate HeroEquipment]
 EquipmentName="Boots Base"
-EquipmentDescription="Plata Armaĵo"
-RandomBaseNames[0]=(StringValue="Plataj Botoj")
-RandomBaseNames[1]=(StringValue="Plataj Ŝuoj")
-RandomBaseNames[2]=(StringValue="Plataj Cleats")
-RandomBaseNames[3]=(StringValue="Plataj Greaves")
-RandomBaseNames[4]=(StringValue="Plataj Stompers")
-RandomBaseNames[5]=(StringValue="Plataj Sabatons")
+EquipmentDescription="Plate Type Armor"
+RandomBaseNames[0]=(StringValue="Plate Boots")
+RandomBaseNames[1]=(StringValue="Plate Shoes")
+RandomBaseNames[2]=(StringValue="Plate Cleats")
+RandomBaseNames[3]=(StringValue="Plate Greaves")
+RandomBaseNames[4]=(StringValue="Plate Stompers")
+RandomBaseNames[5]=(StringValue="Plate Sabatons")
 
 [EquipmentHuntress.CrossbowStyle1 HeroEquipment]
-EquipmentName="Arbalesto"
+EquipmentName="Crossbow"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
-RandomBaseNames[0]=(StringValue="Malkomplika Arbalesto")
-RandomBaseNames[1]=(StringValue="Malkomplika Shooter")
-RandomBaseNames[2]=(StringValue="Malkomplika Handbow")
-RandomBaseNames[3]=(StringValue="Simpla Arbalesto")
-RandomBaseNames[4]=(StringValue="Simpla Shooter")
-RandomBaseNames[5]=(StringValue="Simpla Handbow")
-RandomBaseNames[6]=(StringValue="Porkomencanta Arbalesto")
-RandomBaseNames[7]=(StringValue="Porkomencanta Shooter")
-RandomBaseNames[8]=(StringValue="Porkomencanta Handbow")
-RandomBaseNames[9]=(StringValue="Malakurata Arbalesto")
+EquipmentDescription="Usable by Huntress"
+RandomBaseNames[0]=(StringValue="Basic Crossbow")
+RandomBaseNames[1]=(StringValue="Basic Shooter")
+RandomBaseNames[2]=(StringValue="Basic Handbow")
+RandomBaseNames[3]=(StringValue="Simple Crossbow")
+RandomBaseNames[4]=(StringValue="Simple Shooter")
+RandomBaseNames[5]=(StringValue="Simple Handbow")
+RandomBaseNames[6]=(StringValue="Beginner's Crossbow")
+RandomBaseNames[7]=(StringValue="Beginner's Shooter")
+RandomBaseNames[8]=(StringValue="Beginner's Handbow")
+RandomBaseNames[9]=(StringValue="Inaccurate Crossbow")
 
 [EquipmentMage.MagicStaffStyle9 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
-RandomBaseNames[0]=(StringValue="Draka Okulo")
-RandomBaseNames[1]=(StringValue="Reptilia Sceptro")
-RandomBaseNames[2]=(StringValue="Plated Sorĉbastono")
+RandomBaseNames[0]=(StringValue="Dragon's Eye")
+RandomBaseNames[1]=(StringValue="Reptilian Scepter")
+RandomBaseNames[2]=(StringValue="Plated Staff")
 RandomBaseNames[3]=(StringValue="Tapped Mantis")
-RandomBaseNames[4]=(StringValue="Drakhaŭta Sceptro")
-RandomBaseNames[5]=(StringValue="Skarabo")
+RandomBaseNames[4]=(StringValue="Dragonhide Scepter")
+RandomBaseNames[5]=(StringValue="Scarab")
 RandomBaseNames[6]=(StringValue="Ancient's Anger")
-RandomBaseNames[7]=(StringValue="Scaled Sorĉbastono")
+RandomBaseNames[7]=(StringValue="Scaled Staff")
 RandomBaseNames[8]=(StringValue="Schiekra")
 RandomBaseNames[9]=(StringValue="Basilisk's Fury")
 
 [EquipmentMage.MagicStaffStyle8 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
 RandomBaseNames[0]=(StringValue="Stargate")
@@ -511,7 +511,7 @@ RandomBaseNames[8]=(StringValue="Luminosity")
 RandomBaseNames[9]=(StringValue="Moa's Intuition")
 
 [EquipmentMage.MagicStaffStyle7 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
 RandomBaseNames[0]=(StringValue="Empathy")
@@ -522,17 +522,17 @@ RandomBaseNames[4]=(StringValue="Augi's Remorse")
 RandomBaseNames[5]=(StringValue="Insight")
 RandomBaseNames[6]=(StringValue="Saphron's Grace")
 RandomBaseNames[7]=(StringValue="Acumen")
-RandomBaseNames[8]=(StringValue="Saĝo")
+RandomBaseNames[8]=(StringValue="Wisdom")
 RandomBaseNames[9]=(StringValue="Zeal")
 
 [EquipmentMage.MagicStaffStyle6 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
 RandomBaseNames[0]=(StringValue="Fel Grasp")
-RandomBaseNames[1]=(StringValue="Noxious Sorĉbastono")
+RandomBaseNames[1]=(StringValue="Noxious Staff")
 RandomBaseNames[2]=(StringValue="Phage")
-RandomBaseNames[3]=(StringValue="Araneoido")
+RandomBaseNames[3]=(StringValue="Arachnid")
 RandomBaseNames[4]=(StringValue="Plague Bringer")
 RandomBaseNames[5]=(StringValue="Ill Will")
 RandomBaseNames[6]=(StringValue="Metamorphosis")
@@ -541,12 +541,12 @@ RandomBaseNames[8]=(StringValue="Destruction's Clutch")
 RandomBaseNames[9]=(StringValue="Demon's Grip")
 
 [EquipmentMage.MagicStaffStyle5 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
 RandomBaseNames[0]=(StringValue="Mystic Javelin")
 RandomBaseNames[1]=(StringValue="Beholder")
-RandomBaseNames[2]=(StringValue="Erikal Sorĉbastono")
+RandomBaseNames[2]=(StringValue="Erikal Staff")
 RandomBaseNames[3]=(StringValue="Indifference")
 RandomBaseNames[4]=(StringValue="Apathy")
 RandomBaseNames[5]=(StringValue="Stoicism")
@@ -557,16 +557,16 @@ RandomBaseNames[9]=(StringValue="Mourner's Elegy")
 
 [EquipmentGeneric.BootsArmorBase_Pristine HeroEquipment]
 EquipmentName="Boots Base"
-EquipmentDescription="Sendifekta Armaĵo"
-RandomBaseNames[0]=(StringValue="Sendifektaj Botoj")
-RandomBaseNames[1]=(StringValue="Sendifektaj Ŝuoj")
-RandomBaseNames[2]=(StringValue="Sendifektaj Cleats")
-RandomBaseNames[3]=(StringValue="Sendifektaj Greaves")
-RandomBaseNames[4]=(StringValue="Sendifektaj Stompers")
-RandomBaseNames[5]=(StringValue="Sendifektaj Sabatons")
+EquipmentDescription="Pristine Type Armor"
+RandomBaseNames[0]=(StringValue="Pristine Boots")
+RandomBaseNames[1]=(StringValue="Pristine Shoes")
+RandomBaseNames[2]=(StringValue="Pristine Cleats")
+RandomBaseNames[3]=(StringValue="Pristine Greaves")
+RandomBaseNames[4]=(StringValue="Pristine Stompers")
+RandomBaseNames[5]=(StringValue="Pristine Sabatons")
 
 [EquipmentSquire.BroadswordStyle7 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
 RandomBaseNames[0]=(StringValue="Vanguard")
@@ -582,31 +582,31 @@ RandomBaseNames[9]=(StringValue="Order's Ruin")
 
 [EquipmentGeneric.BootsArmorBase_Chain HeroEquipment]
 EquipmentName="Boots Base"
-EquipmentDescription="Ĉena Armaĵo"
-RandomBaseNames[0]=(StringValue="Ĉenaj Botoj")
-RandomBaseNames[1]=(StringValue="Ĉenaj Ŝuoj")
-RandomBaseNames[2]=(StringValue="Ĉenaj Cleats")
-RandomBaseNames[3]=(StringValue="Ĉenaj Greaves")
-RandomBaseNames[4]=(StringValue="Ĉenaj Stompers")
-RandomBaseNames[5]=(StringValue="Ĉenaj Sabatons")
+EquipmentDescription="Chain Type Armor"
+RandomBaseNames[0]=(StringValue="Chain Boots")
+RandomBaseNames[1]=(StringValue="Chain Shoes")
+RandomBaseNames[2]=(StringValue="Chain Cleats")
+RandomBaseNames[3]=(StringValue="Chain Greaves")
+RandomBaseNames[4]=(StringValue="Chain Stompers")
+RandomBaseNames[5]=(StringValue="Chain Sabatons")
 
 [EquipmentHuntress.CrossbowStyle4 HeroEquipment]
 EquipmentName="Gatling"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Putter")
 RandomBaseNames[1]=(StringValue="Buzzsaw")
 RandomBaseNames[2]=(StringValue="Gatling Gun")
 RandomBaseNames[3]=(StringValue="Madshrew")
 RandomBaseNames[4]=(StringValue="Minigun")
-RandomBaseNames[5]=(StringValue="Saŝa")
+RandomBaseNames[5]=(StringValue="Sasha")
 RandomBaseNames[6]=(StringValue="Repeater")
 RandomBaseNames[7]=(StringValue="Turret")
-RandomBaseNames[8]=(StringValue="Ĉena Gun")
+RandomBaseNames[8]=(StringValue="Chain Gun")
 RandomBaseNames[9]=(StringValue="Spinner")
 
 [EquipmentMage.MagicStaffStyle11 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
 RandomBaseNames[0]=(StringValue="Inspiration")
@@ -617,146 +617,146 @@ RandomBaseNames[4]=(StringValue="Delirium")
 RandomBaseNames[5]=(StringValue="Rapture")
 RandomBaseNames[6]=(StringValue="Rhapsody")
 RandomBaseNames[7]=(StringValue="Ardor")
-RandomBaseNames[8]=(StringValue="Walking Sorĉbastono")
+RandomBaseNames[8]=(StringValue="Walking Staff")
 RandomBaseNames[9]=(StringValue="Jeremy's Devotion")
 
 [EquipmentGeneric.GauntletArmorBase_Chain HeroEquipment]
 EquipmentName="Gauntlet Base"
-EquipmentDescription="Ĉena Armaĵo"
-RandomBaseNames[0]=(StringValue="Ĉenaj Gantoj")
-RandomBaseNames[1]=(StringValue="Ĉenaj Gauntlets")
-RandomBaseNames[2]=(StringValue="Ĉenaj Mitts")
-RandomBaseNames[3]=(StringValue="Ĉenaj Bracers")
-RandomBaseNames[4]=(StringValue="Ĉenaj Grips")
-RandomBaseNames[5]=(StringValue="Ĉenaj Handguards")
+EquipmentDescription="Chain Type Armor"
+RandomBaseNames[0]=(StringValue="Chain Gloves")
+RandomBaseNames[1]=(StringValue="Chain Gauntlets")
+RandomBaseNames[2]=(StringValue="Chain Mitts")
+RandomBaseNames[3]=(StringValue="Chain Bracers")
+RandomBaseNames[4]=(StringValue="Chain Grips")
+RandomBaseNames[5]=(StringValue="Chain Handguards")
 
 [EquipmentGeneric.TorsoArmorBase_Leather HeroEquipment]
 EquipmentName="Torso Armor Base"
-EquipmentDescription="Leda Armaĵo"
-RandomBaseNames[0]=(StringValue="Leda Veŝto")
-RandomBaseNames[1]=(StringValue="Leda Mantelo")
-RandomBaseNames[2]=(StringValue="Leda Ĉemizo")
+EquipmentDescription="Leather Type Armor"
+RandomBaseNames[0]=(StringValue="Leather Vest")
+RandomBaseNames[1]=(StringValue="Leather Coat")
+RandomBaseNames[2]=(StringValue="Leather Shirt")
 
 [EquipmentMage.MagicStaffStyle10 HeroEquipment]
-EquipmentName="Sorĉbastono"
+EquipmentName="Staff"
 EquipmentStatNames[0]="Ranged Damage"
 EquipmentDescription="Usable by Apprentice"
-RandomBaseNames[0]=(StringValue="Obsidiana Furiozo")
+RandomBaseNames[0]=(StringValue="Obsidian Fury")
 RandomBaseNames[1]=(StringValue="Onyx Rage")
 RandomBaseNames[2]=(StringValue="Stygian Wrath")
-RandomBaseNames[3]=(StringValue="Ebona Kolero")
+RandomBaseNames[3]=(StringValue="Ebony Anger")
 RandomBaseNames[4]=(StringValue="McGurner")
 RandomBaseNames[5]=(StringValue="Crystal Spire")
 RandomBaseNames[6]=(StringValue="Jade Destroyer")
-RandomBaseNames[7]=(StringValue="Jasper Sorĉbastono")
+RandomBaseNames[7]=(StringValue="Jasper Staff")
 RandomBaseNames[8]=(StringValue="Monolith")
 RandomBaseNames[9]=(StringValue="Golem Tamer")
 
 [EquipmentGeneric.TorsoArmorBase_Chain HeroEquipment]
 EquipmentName="Torso Armor Base"
-EquipmentDescription="Ĉena Armaĵo"
-RandomBaseNames[0]=(StringValue="Ĉena Veŝto")
-RandomBaseNames[1]=(StringValue="Ĉena Ĉemizo")
-RandomBaseNames[2]=(StringValue="Ĉena Mantelo")
+EquipmentDescription="Chain Type Armor"
+RandomBaseNames[0]=(StringValue="Chain Vest")
+RandomBaseNames[1]=(StringValue="Chain Shirt")
+RandomBaseNames[2]=(StringValue="Chain Coat")
 
 [EquipmentMonk.MonkSpearStyle10 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
-RandomBaseNames[0]=(StringValue="Namasteo")
+EquipmentDescription="Usable by Monk"
+RandomBaseNames[0]=(StringValue="Namaste")
 RandomBaseNames[1]=(StringValue="Final Vow")
 RandomBaseNames[2]=(StringValue="Brooker")
 RandomBaseNames[3]=(StringValue="Pious Pike")
-RandomBaseNames[4]=(StringValue="Sankta Halberd")
+RandomBaseNames[4]=(StringValue="Holy Halberd")
 RandomBaseNames[5]=(StringValue="Virtuous Voulge")
 RandomBaseNames[6]=(StringValue="Just Ji")
 RandomBaseNames[7]=(StringValue="Glorified Glaive")
 RandomBaseNames[8]=(StringValue="Dissolution")
-RandomBaseNames[9]=(StringValue="Master's Lanco")
+RandomBaseNames[9]=(StringValue="Master's Spear")
 
 [EquipmentMonk.MonkSpearStyle1 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
-RandomBaseNames[0]=(StringValue="Modesta Lanco")
-RandomBaseNames[1]=(StringValue="Modesta Lanco")
-RandomBaseNames[2]=(StringValue="Modesta Pike")
-RandomBaseNames[3]=(StringValue="Kurbiĝinta Lanco")
-RandomBaseNames[4]=(StringValue="Kurbiĝinta Lanco")
-RandomBaseNames[5]=(StringValue="Kurbiĝinta Pike")
-RandomBaseNames[6]=(StringValue="Malakriĝinta Lanco")
-RandomBaseNames[7]=(StringValue="Malakriĝinta Lanco")
-RandomBaseNames[8]=(StringValue="Malakriĝinta Pike")
+EquipmentDescription="Usable by Monk"
+RandomBaseNames[0]=(StringValue="Modest Spear")
+RandomBaseNames[1]=(StringValue="Modest Lance")
+RandomBaseNames[2]=(StringValue="Modest Pike")
+RandomBaseNames[3]=(StringValue="Bent Spear")
+RandomBaseNames[4]=(StringValue="Bent Lance")
+RandomBaseNames[5]=(StringValue="Bent Pike")
+RandomBaseNames[6]=(StringValue="Dulled Spear")
+RandomBaseNames[7]=(StringValue="Dulled Lance")
+RandomBaseNames[8]=(StringValue="Dulled Pike")
 RandomBaseNames[9]=(StringValue="Pupil's Poleaxe")
 
 [EquipmentGeneric.BootsArmorBase_Leather HeroEquipment]
 EquipmentName="Boots Base"
-EquipmentDescription="Leda Armaĵo"
-RandomBaseNames[0]=(StringValue="Leda Botoj")
-RandomBaseNames[1]=(StringValue="Leda Ŝuoj")
-RandomBaseNames[2]=(StringValue="Leda Cleats")
-RandomBaseNames[3]=(StringValue="Leda Greaves")
-RandomBaseNames[4]=(StringValue="Leda Stompers")
-RandomBaseNames[5]=(StringValue="Leda Sabatons")
+EquipmentDescription="Leather Type Armor"
+RandomBaseNames[0]=(StringValue="Leather Boots")
+RandomBaseNames[1]=(StringValue="Leather Shoes")
+RandomBaseNames[2]=(StringValue="Leather Cleats")
+RandomBaseNames[3]=(StringValue="Leather Greaves")
+RandomBaseNames[4]=(StringValue="Leather Stompers")
+RandomBaseNames[5]=(StringValue="Leather Sabatons")
 
 [EquipmentGeneric.HelmetArmorBase_Chain HeroEquipment]
 EquipmentName="Leg Armor Base"
-EquipmentDescription="Ĉena Armaĵo"
-RandomBaseNames[0]=(StringValue="Ĉena Helmo")
-RandomBaseNames[1]=(StringValue="Ĉena Kasko")
-RandomBaseNames[2]=(StringValue="Ĉena Masko")
-RandomBaseNames[3]=(StringValue="Ĉena Kapuĉo")
-RandomBaseNames[4]=(StringValue="Ĉena Ĉapo")
+EquipmentDescription="Chain Type Armor"
+RandomBaseNames[0]=(StringValue="Chain Helm")
+RandomBaseNames[1]=(StringValue="Chain Helmet")
+RandomBaseNames[2]=(StringValue="Chain Mask")
+RandomBaseNames[3]=(StringValue="Chain Hood")
+RandomBaseNames[4]=(StringValue="Chain Cap")
 
 [EquipmentGeneric.HelmetArmorBase_Mail HeroEquipment]
 EquipmentName="Leg Armor Base"
-EquipmentDescription="Maŝa Armaĵo"
-RandomBaseNames[0]=(StringValue="Maŝa Helmo")
-RandomBaseNames[1]=(StringValue="Maŝa Kasko")
-RandomBaseNames[2]=(StringValue="Maŝa Masko")
-RandomBaseNames[3]=(StringValue="Maŝa Kapuĉo")
-RandomBaseNames[4]=(StringValue="Maŝa Ĉapo")
+EquipmentDescription="Mail Type Armor"
+RandomBaseNames[0]=(StringValue="Mail Helm")
+RandomBaseNames[1]=(StringValue="Mail Helmet")
+RandomBaseNames[2]=(StringValue="Mail Mask")
+RandomBaseNames[3]=(StringValue="Mail Hood")
+RandomBaseNames[4]=(StringValue="Mail Cap")
 
 [EquipmentSquire.BroadswordStyle5 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
-RandomBaseNames[0]=(StringValue="Buster Klingo")
+RandomBaseNames[0]=(StringValue="Buster Blade")
 RandomBaseNames[1]=(StringValue="Cleaver")
-RandomBaseNames[2]=(StringValue="Buĉilo")
-RandomBaseNames[3]=(StringValue="Dorsoglavo")
-RandomBaseNames[4]=(StringValue="Koboldhakilo")
+RandomBaseNames[2]=(StringValue="Butcher")
+RandomBaseNames[3]=(StringValue="Backsword")
+RandomBaseNames[4]=(StringValue="Goblin Dicer")
 RandomBaseNames[5]=(StringValue="Scorn Edge")
-RandomBaseNames[6]=(StringValue="Dormanto")
+RandomBaseNames[6]=(StringValue="Sleeper")
 RandomBaseNames[7]=(StringValue="Broad Carver")
-RandomBaseNames[8]=(StringValue="Aŭdaco")
+RandomBaseNames[8]=(StringValue="Audacity")
 RandomBaseNames[9]=(StringValue="Sky Envy")
 
 [EquipmentHuntress.CrossbowStyle7 HeroEquipment]
-EquipmentName="Arbalesto"
+EquipmentName="Crossbow"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
-RandomBaseNames[0]=(StringValue="Classy Arbalesto")
-RandomBaseNames[1]=(StringValue="Fancy Arbalesto")
-RandomBaseNames[2]=(StringValue="Ŝekspiro")
-RandomBaseNames[3]=(StringValue="Refined Arbalesto")
-RandomBaseNames[4]=(StringValue="Eleganta Arbalesto")
-RandomBaseNames[5]=(StringValue="Ornamental Arbalesto")
-RandomBaseNames[6]=(StringValue="Spiffy Arbalesto")
+EquipmentDescription="Usable by Huntress"
+RandomBaseNames[0]=(StringValue="Classy Crossbow")
+RandomBaseNames[1]=(StringValue="Fancy Crossbow")
+RandomBaseNames[2]=(StringValue="Shakespeare")
+RandomBaseNames[3]=(StringValue="Refined Crossbow")
+RandomBaseNames[4]=(StringValue="Elegant Crossbow")
+RandomBaseNames[5]=(StringValue="Ornamental Crossbow")
+RandomBaseNames[6]=(StringValue="Spiffy Crossbow")
 RandomBaseNames[7]=(StringValue="Royal Sidearm")
 RandomBaseNames[8]=(StringValue="Beautiful Boltthrower")
-RandomBaseNames[9]=(StringValue="Balanced Arbalesto")
+RandomBaseNames[9]=(StringValue="Balanced Crossbow")
 
 [EquipmentSquire.BroadswordStyle9 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
-RandomBaseNames[0]=(StringValue="Demona Klingo")
+RandomBaseNames[0]=(StringValue="Demon Blade")
 RandomBaseNames[1]=(StringValue="Hate's Apex")
 RandomBaseNames[2]=(StringValue="Angst")
 RandomBaseNames[3]=(StringValue="Jordan's Dread")
 RandomBaseNames[4]=(StringValue="Panic Machete")
-RandomBaseNames[5]=(StringValue="Malespero")
+RandomBaseNames[5]=(StringValue="Despair")
 RandomBaseNames[6]=(StringValue="Fear Piercer")
 RandomBaseNames[7]=(StringValue="Heart Hacker")
 RandomBaseNames[8]=(StringValue="Executioner")
@@ -764,13 +764,13 @@ RandomBaseNames[9]=(StringValue="Gashing Greatsword")
 
 [EquipmentGeneric.TorsoArmorBase_Plate HeroEquipment]
 EquipmentName="Torso Armor Base"
-EquipmentDescription="Plata Armaĵo"
-RandomBaseNames[0]=(StringValue="Plata Veŝto")
-RandomBaseNames[1]=(StringValue="Plata Ĉemizo")
-RandomBaseNames[2]=(StringValue="Plata Mantelo")
+EquipmentDescription="Plate Type Armor"
+RandomBaseNames[0]=(StringValue="Plate Vest")
+RandomBaseNames[1]=(StringValue="Plate Shirt")
+RandomBaseNames[2]=(StringValue="Plate Coat")
 
 [EquipmentSquire.BroadswordStyle11 HeroEquipment]
-EquipmentName="Glavo"
+EquipmentName="Sword"
 EquipmentStatNames[0]="Melee Damage"
 EquipmentDescription="Usable by Squire"
 RandomBaseNames[0]=(StringValue="Prince's Guard")
@@ -779,20 +779,20 @@ RandomBaseNames[2]=(StringValue="Joyeuse")
 RandomBaseNames[3]=(StringValue="Justice Bringer")
 RandomBaseNames[4]=(StringValue="Sovereign")
 RandomBaseNames[5]=(StringValue="Maharajah")
-RandomBaseNames[6]=(StringValue="Cara Glavo")
+RandomBaseNames[6]=(StringValue="Czar Sword")
 RandomBaseNames[7]=(StringValue="Truth's Rule")
-RandomBaseNames[8]=(StringValue="Grandglavo de Aleksandro")
+RandomBaseNames[8]=(StringValue="Alexander's Greatsword")
 RandomBaseNames[9]=(StringValue="Yotam's Decree")
 
 [EquipmentMonk.MonkSpearStyle8 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Ceremonial Spade")
 RandomBaseNames[1]=(StringValue="Shaolin Spade")
 RandomBaseNames[2]=(StringValue="Abbot's Fist")
 RandomBaseNames[3]=(StringValue="Meditation Barb")
-RandomBaseNames[4]=(StringValue="Mystic Lanco")
+RandomBaseNames[4]=(StringValue="Mystic Spear")
 RandomBaseNames[5]=(StringValue="Forgiveness Spade")
 RandomBaseNames[6]=(StringValue="Oath Pike")
 RandomBaseNames[7]=(StringValue="Haynes's Disdain")
@@ -800,24 +800,24 @@ RandomBaseNames[8]=(StringValue="Sharp Shovel")
 RandomBaseNames[9]=(StringValue="Cresent Spade")
 
 [EquipmentMonk.MonkSpearStyle7 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Hellion")
 RandomBaseNames[1]=(StringValue="Brutalizer")
 RandomBaseNames[2]=(StringValue="Bloodletter")
 RandomBaseNames[3]=(StringValue="Ruthless Pike")
-RandomBaseNames[4]=(StringValue="Twisted Lanco")
-RandomBaseNames[5]=(StringValue="Barbaraĵo")
-RandomBaseNames[6]=(StringValue="Sovaĝa Lanco")
-RandomBaseNames[7]=(StringValue="Cruel Lanco")
+RandomBaseNames[4]=(StringValue="Twisted Spear")
+RandomBaseNames[5]=(StringValue="Barbarous")
+RandomBaseNames[6]=(StringValue="Savage Spear")
+RandomBaseNames[7]=(StringValue="Cruel Lance")
 RandomBaseNames[8]=(StringValue="Ferocity")
 RandomBaseNames[9]=(StringValue="Atrocity")
 
 [EquipmentHuntress.CrossbowStyle9 HeroEquipment]
-EquipmentName="Arbalesto"
+EquipmentName="Crossbow"
 EquipmentStatNames[0]="Ranged Damage"
-EquipmentDescription="Uzebla por Ĉasistino"
+EquipmentDescription="Usable by Huntress"
 RandomBaseNames[0]=(StringValue="Ternion")
 RandomBaseNames[1]=(StringValue="Cerberus")
 RandomBaseNames[2]=(StringValue="Triple Shot")
@@ -827,35 +827,35 @@ RandomBaseNames[5]=(StringValue="Hydra Slayer")
 RandomBaseNames[6]=(StringValue="Chimera Shooter")
 RandomBaseNames[7]=(StringValue="Tri-qaws")
 RandomBaseNames[8]=(StringValue="Teller Complex")
-RandomBaseNames[9]=(StringValue="Useful Arbalesto")
+RandomBaseNames[9]=(StringValue="Useful Crossbow")
 
 [EquipmentMonk.MonkSpearStyle2 HeroEquipment]
-EquipmentName="Lanco"
+EquipmentName="Spear"
 EquipmentStatNames[0]="Melee Damage"
-EquipmentDescription="Uzebla por Monaĥo"
+EquipmentDescription="Usable by Monk"
 RandomBaseNames[0]=(StringValue="Warden Pike")
 RandomBaseNames[1]=(StringValue="Gemmed Pike")
-RandomBaseNames[2]=(StringValue="Bejeweled Lanco")
+RandomBaseNames[2]=(StringValue="Bejeweled Spear")
 RandomBaseNames[3]=(StringValue="Hand-wrapped Impaler")
 RandomBaseNames[4]=(StringValue="Vicious Polearm")
 RandomBaseNames[5]=(StringValue="Journeyman Spike")
-RandomBaseNames[6]=(StringValue="Disciple's Lanco")
-RandomBaseNames[7]=(StringValue="Disciple's Lanco")
-RandomBaseNames[8]=(StringValue="Gemmed Lanco")
-RandomBaseNames[9]=(StringValue="Warden Lanco")
+RandomBaseNames[6]=(StringValue="Disciple's Lance")
+RandomBaseNames[7]=(StringValue="Disciple's Spear")
+RandomBaseNames[8]=(StringValue="Gemmed Lance")
+RandomBaseNames[9]=(StringValue="Warden Lance")
 
 [VictoryItems.MonkSpear_VictoryReward HeroEquipment]
-EquipmentName="Lanco de Paĉjo"
+EquipmentName="Dad's Spear"
 EquipmentDescription="The powerful spear of a legendary poet-warrior."
 
 [VictoryItems.MageStaff_VictoryReward HeroEquipment]
-EquipmentName="Sorĉbastono de Paĉjo"
+EquipmentName="Dad's Staff"
 EquipmentDescription="The magical stave of a legendary brilliant mage."
 
 [VictoryItems.HuntressBow_VictoryReward HeroEquipment]
-EquipmentName="Pafarko de Panjo"
+EquipmentName="Mom's Bow"
 EquipmentDescription="The trusty crossbow of a legendary cunning ranger."
 
 [VictoryItems.Broadsword_VictoryReward HeroEquipment]
-EquipmentName="Glavo de Paĉjo"
+EquipmentName="Dad's Sword"
 EquipmentDescription="The mighty sword of a legendary courageous knight."

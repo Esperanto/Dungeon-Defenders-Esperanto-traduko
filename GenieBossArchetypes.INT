@@ -1,6 +1,6 @@
 [Enemy.EnemyGenie DunDefGenieBoss]
-DescriptiveName="Ĝinreĝo"
+DescriptiveName="Genie King"
 
 [EnemyBabyDjinn.EnemyBabyDjinn DunDefDjinn]
-DescriptiveName="Ĝinido"
+DescriptiveName="Baby Djinn"
 

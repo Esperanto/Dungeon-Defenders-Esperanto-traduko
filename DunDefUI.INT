@@ -5,25 +5,25 @@ CaptionDataSource.MarkupString="No Tutorial"
 DataSource.MarkupString="Infinite Build Time"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color3.BlueLabel UILabel]
-DataSource.MarkupString="Bluo:"
+DataSource.MarkupString="Blue:"
 
 [DataListEntry_MissionListEntry:UIButton_DataListEntry_Arc_0 UIButton_DataListEntry]
-displayString="Defaŭlta Nomo de Misio"
+displayString="Default Mission Name"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.recommendedHeroLabel UILabel]
 DataSource.MarkupString="<COLOR: 255,100,5>Recommended Hero Level : </COLOR> <COLOR: 255,200,0>[]</COLOR>"
 
 [DataListEntry_MissionListEntry_Challenge:UIButton_DataListEntry_Arc_0 UIButton_DataListEntry]
-displayString="Defaŭlta Nomo de Misio"
+displayString="Default Mission Name"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.SecondaryColor.Title UILabel]
-DataSource.MarkupString="Dua Koloro"
+DataSource.MarkupString="Secondary Color"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.LaunchButton UIScriptWidget_Button]
 displayString="Go!"
 
 [DataListEntry_StatLevelEntry:UIButton_DataListEntry_Arc_0 UIButton_DataListEntry]
-displayString="Nomo de Nivelo"
+displayString="Level Name"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.LockLobbyItemPickupsPanel.UILabel_0Copy1 UILabel]
 DataSource.MarkupString="Lock Tavern Item Pickups"
@@ -41,16 +41,16 @@ DataSource.MarkupString="This is a very very very long mission description. It's
 DataSource.MarkupString="Are you really sure?"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.Instructions UILabel]
-DataSource.MarkupString="Elektu potencan Heroklason:"
+DataSource.MarkupString="Choose a mighty Hero class:"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.LockedIcon.AvailableInFullVersionLabel UILabel]
 DataSource.MarkupString="Available in Full Version"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.aBackButton UILabelButton]
-CaptionDataSource.MarkupString="Reen"
+CaptionDataSource.MarkupString="Back"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.MissionNameLabel UILabel]
-DataSource.MarkupString="Nomo de Misio"
+DataSource.MarkupString="Mission Name"
 
 [Leaderboard_UI:UIImage_0.UILabel_2 UILabel]
 DataSource.MarkupString="View Mode:"
@@ -59,34 +59,34 @@ DataSource.MarkupString="View Mode:"
 DataSource.MarkupString="Level Victory!"
 
 [Leaderboard_UI:UIImage_0.PrevMode UIButton_Scripted]
-CaptionDataSource.MarkupString="Ant."
+CaptionDataSource.MarkupString="Prev"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.NameTab.UIPanel_Arc_0.EditButton UILabelButton]
-CaptionDataSource.MarkupString="Redakti"
+CaptionDataSource.MarkupString="Edit"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.UIImage_8.OptionsLabel UILabel]
-DataSource.MarkupString="Agordoj"
+DataSource.MarkupString="Options"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.NameTab.UIPanel_Arc_0.Instructions UILabel]
 DataSource.MarkupString="What will you dub your valiant warrior?"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.ResetButton UIScriptWidget_Button]
-displayString="Rekomencigi"
+displayString="Reset"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.NameTab.UIPanel_Arc_0.nBackButton UILabelButton]
-CaptionDataSource.MarkupString="Reen"
+CaptionDataSource.MarkupString="Back"
 
 [DropMana_UI:UIResolutionContainer_2.DropManaBG.dCancelButton UIScriptWidget_Button]
-displayString="Nuligi"
+displayString="Cancel"
 
 [AskForTutorial_UI:UIResolutionContainer_0.tutPanelBG.YesButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Jes"
+CaptionDataSource.MarkupString="Yes"
 
 [DropMana_UI:UIResolutionContainer_2.DropManaBG.dDropButton UIScriptWidget_Button]
-displayString="Faligi"
+displayString="Drop"
 
 [DropMana_UI:UIResolutionContainer_2.DropManaBG.UILabel_1 UILabel]
-DataSource.MarkupString="Faligi Manaon"
+DataSource.MarkupString="Drop Mana"
 
 [EquipmentIconDataEntry:UIScriptWidget_EquipmentIconButton_Arc_0 UIScriptWidget_EquipmentIconButton]
 displayString="Blessed Legendary Flaming Broadsword"
@@ -95,22 +95,22 @@ displayString="Blessed Legendary Flaming Broadsword"
 DataSource.MarkupString="Starting Wave"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color1.BlueLabel UILabel]
-DataSource.MarkupString="Bluo:"
+DataSource.MarkupString="Blue:"
 
 [HeroSelection_UI:RezContainer.sDeletionPanel.sDeletionPopupImageBG.sConfirmDeleteButton UIScriptWidget_Button]
-displayString="Jes"
+displayString="Yes"
 
 [HeroSelection_UI:RezContainer.sDeletionPanel.sDeletionPopupImageBG.sCancelDeleteButton UIScriptWidget_Button]
-displayString="Ne"
+displayString="No"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color1.GreenLabel UILabel]
-DataSource.MarkupString="Verdo:"
+DataSource.MarkupString="Green:"
 
 [HeroSelection_UI:RezContainer.HeroSelectionPanel.tHeroInfoButton UIScriptWidget_Button]
-displayString="Heroinformoj"
+displayString="Hero Info"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.NameTab.UIPanel_Arc_0.nNextButton UILabelButton]
-CaptionDataSource.MarkupString="Sekven"
+CaptionDataSource.MarkupString="Next"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.SurvivalModePanel.PureStrategyModePanel.UILabel_0Copy1 UILabel]
 DataSource.MarkupString="Pure Strategy"
@@ -122,13 +122,13 @@ DataSource.MarkupString="Survival Mode"
 CaptionDataSource.MarkupString="Random"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.Title UILabel]
-DataSource.MarkupString="Fasonu Vian Heroon"
+DataSource.MarkupString="Design Your Hero"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.cBackButton UILabelButton]
-CaptionDataSource.MarkupString="Reen"
+CaptionDataSource.MarkupString="Back"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.Cancel UILabelButton]
-CaptionDataSource.MarkupString="Nuligi"
+CaptionDataSource.MarkupString="Cancel"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.ClassName UILabel]
 DataSource.MarkupString="The Summoner"
@@ -152,22 +152,22 @@ DataSource.MarkupString="Banked Mana"
 CaptionDataSource.MarkupString="OK"
 
 [HeroInfo_UI:UIImage_1.DropEquipmentButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Faligi Objekton"
+CaptionDataSource.MarkupString="Drop Item"
 
 [ForgeMenu_UI:UIResolutionContainer_0.ForgeBG.fHeroInfo UIScriptWidget_Button]
-displayString="Heroinformoj"
+displayString="Hero Info"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.PrimaryColor.Title UILabel]
-DataSource.MarkupString="Ĉefa Koloro"
+DataSource.MarkupString="Primary Color"
 
 [HeroInfo_UI:UIImage_1.DropManaButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Faligi Manaon"
+CaptionDataSource.MarkupString="Drop Mana"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color3.Title UILabel]
-DataSource.MarkupString="Animoj:"
+DataSource.MarkupString="Souls:"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.PrimaryColor.GreenLabel UILabel]
-DataSource.MarkupString="Verdo"
+DataSource.MarkupString="Green"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.okButton UILabelButton]
 CaptionDataSource.MarkupString="OK"
@@ -188,16 +188,16 @@ displayString="Exit"
 DataSource.MarkupString="Hero Mana"
 
 [HeroInfo_UI:UIImage_1.HeroNameLabel UILabel]
-DataSource.MarkupString="Nomo de Heroo"
+DataSource.MarkupString="Hero Name"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.SecondaryColor.BlueLabel UILabel]
-DataSource.MarkupString="Bluo"
+DataSource.MarkupString="Blue"
 
 [HeroInfo_UI:UIImage_1.MoveToItemBox UIButton_Scripted]
 CaptionDataSource.MarkupString="Item Box"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.SecondaryColor.GreenLabel UILabel]
-DataSource.MarkupString="Verdo"
+DataSource.MarkupString="Green"
 
 [AskForTutorial_UI:UIResolutionContainer_0.tutPanelBG.UILabel_1 UILabel]
 DataSource.MarkupString="You have not yet completed the introductory Tutorial. Would you like to view the Tutorial before venturing forth?"
@@ -212,7 +212,7 @@ CaptionDataSource.MarkupString="Quick Tutorial"
 CaptionDataSource.MarkupString="View Equipment Info"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.SecondaryColor.RedLabel UILabel]
-DataSource.MarkupString="Ruĝo"
+DataSource.MarkupString="Red"
 
 [HeroSelection_UI:RezContainer.HeroSelectionPanel.tChooseProfileButton UIScriptWidget_Button]
 displayString="Choose User"
@@ -227,55 +227,55 @@ displayString="Item Box"
 DataSource.MarkupString="Hero Name | Lvl 15"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.Instructions UILabel]
-DataSource.MarkupString="Elektu la kolorojn de la vesto de via Heroo:"
+DataSource.MarkupString="Choose the color of your Hero's garb:"
 
 [SwapHero_UI:RezContainer.DeletionPanel.DeletionPopupImageBG.ConfirmDeleteButton UIScriptWidget_Button]
-displayString="Jes"
+displayString="Yes"
 
 [SwapHero_UI:RezContainer.DeletionPanel.DeletionPopupImageBG.CancelDeleteButton UIScriptWidget_Button]
-displayString="Ne"
+displayString="No"
 
 [HeroSelection_UI:RezContainer.HeroSelectionPanel.tDeleteHeroButton UIScriptWidget_Button]
-displayString="Forigi Heroon"
+displayString="Delete Hero"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.ClassName UILabel]
 DataSource.MarkupString="The Squire"
 
 [SwapHero_UI:RezContainer.DeletionPanel.DeletionPopupImageBG.DeleteTextLabel UILabel]
-DataSource.MarkupString="Ĉu vi certas, ke vi volas Forigi?"
+DataSource.MarkupString="Are you sure you wish to Delete?"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.accessoryColor.BlueLabel UILabel]
-DataSource.MarkupString="Bluo"
+DataSource.MarkupString="Blue"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.accessoryColor.GreenLabel UILabel]
-DataSource.MarkupString="Verdo"
+DataSource.MarkupString="Green"
 
 [HeroSelection_UI:RezContainer.HeroSelectionPanel.tEditCrystalButton UIScriptWidget_Button]
-displayString="Redakti Kristalon"
+displayString="Edit Crystal"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.accessoryColor.RedLabel UILabel]
-DataSource.MarkupString="Ruĝo"
+DataSource.MarkupString="Red"
 
 [Leaderboard_UI:UIImage_0.UILabel_0 UILabel]
-DataSource.MarkupString="Poentaro"
+DataSource.MarkupString="Leaderboard"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.accessoryColor.Title UILabel]
-DataSource.MarkupString="Detala Koloro"
+DataSource.MarkupString="Accessory Color"
 
 [SwapHero_UI:RezContainer.SwapHeroPanel.tSelectButton UIScriptWidget_Button]
 displayString="Swap"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.DropItem UIScriptWidget_Button]
-displayString="Faligi Objekton"
+displayString="Drop Item"
 
 [SwapHero_UI:RezContainer.SwapHeroPanel.UILabel1 UILabel]
 DataSource.MarkupString="Swap Hero"
 
 [TitleScreen_UI:UIRezContainer.BGPanelImage.PressStartLabel UILabel]
-DataSource.MarkupString="Premu START"
+DataSource.MarkupString="Press START"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color3.GreenLabel UILabel]
-DataSource.MarkupString="Verdo:"
+DataSource.MarkupString="Green:"
 
 [CustomizeCrystal_UI:CustomizeUpperRez.UpperBG.Instructions UILabel]
 DataSource.MarkupString="Colorize your Crystal!"
@@ -287,79 +287,79 @@ DataSource.MarkupString="Colorize your Crystal!"
 DataSource.MarkupString="Tooltip"
 
 [CustomizeCrystal_UI:CustomizeUpperRez.UpperBG.NextButton UILabelButton]
-CaptionDataSource.MarkupString="Sekva"
+CaptionDataSource.MarkupString="Next"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.PrimaryColor.RedLabel UILabel]
-DataSource.MarkupString="Ruĝo"
+DataSource.MarkupString="Red"
 
 [HeroSelection_UI:RezContainer.sDeletionPanel.sDeletionPopupImageBG.sDeleteTextLabel UILabel]
 DataSource.MarkupString="Are you sure you wish to Delete?"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color2.GreenLabel UILabel]
-DataSource.MarkupString="Verdo:"
+DataSource.MarkupString="Green:"
 
 [Leaderboard_UI:UIImage_0.nextMode UIButton_Scripted]
-CaptionDataSource.MarkupString="Sekv."
+CaptionDataSource.MarkupString="Next"
 
 [levelVictoryTimerUI:BuildPRezContainer.vBuildPanelBG.NextLevelLabel UILabel]
 DataSource.MarkupString="Proceed to Next Level!"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.cNextButton UILabelButton]
-CaptionDataSource.MarkupString="Sekven"
+CaptionDataSource.MarkupString="Next"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color2.RedLabel UILabel]
-DataSource.MarkupString="Ruĝo:"
+DataSource.MarkupString="Red:"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color2.Title UILabel]
 DataSource.MarkupString="Aura:"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color1.RedLabel UILabel]
-DataSource.MarkupString="Ruĝo:"
+DataSource.MarkupString="Red:"
 
 [HeroSelection_UI:RezContainer.sDeletionPanel.sDeletionPopupImageBG.sDeleteHeroNameLabel UILabel]
 DataSource.MarkupString="Hero Name | Lvl 15"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color2.BlueLabel UILabel]
-DataSource.MarkupString="Bluo:"
+DataSource.MarkupString="Blue:"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color1.Title UILabel]
 DataSource.MarkupString="Main:"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.Title UILabel]
-DataSource.MarkupString="Kreu Vian Heroon"
+DataSource.MarkupString="Create Your Hero"
 
 [CustomizeCrystal_UI:CustomizeUpperRez.UpperBG.PreviousButton UILabelButton]
-CaptionDataSource.MarkupString="Antaŭa"
+CaptionDataSource.MarkupString="Previous"
 
 [CustomizeCrystal_UI:CustomizeUpperRez.UpperBG.Requirement UILabel]
 DataSource.MarkupString="Colorize your Crystal!"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.CloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.GiveToHero UIScriptWidget_Button]
 displayString="Give To Hero"
 
 [SwapHero_UI:RezContainer.SwapHeroPanel.tCloseButton UIScriptWidget_Button]
-displayString="Nuligi"
+displayString="Cancel"
 
 [SwapHero_UI:RezContainer.SwapHeroPanel.tHeroInfoButton UIScriptWidget_Button]
-displayString="Heroinformoj"
+displayString="Hero Info"
 
 [SwapHero_UI:RezContainer.SwapHeroPanel.tDeleteHeroButton UIScriptWidget_Button]
-displayString="Forigi Heroon"
+displayString="Delete Hero"
 
 [CustomizeCrystal_UI:CustomizeMainRez.MainBG.customizeBG.customizePanelBG.color3.RedLabel UILabel]
-DataSource.MarkupString="Ruĝo:"
+DataSource.MarkupString="Red:"
 
 [ForgeMenu_UI:UIResolutionContainer_0.ForgeBG.ForgeCloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [ForgeMenu_UI:UIResolutionContainer_0.ForgeBG.LevelUpLabel UILabel]
 DataSource.MarkupString="Level Up Is Available!"
 
 [SwapHero_UI:RezContainer.SwapHeroPanel.tCreateHeroButton UIScriptWidget_Button]
-displayString="Krei Heroon"
+displayString="Create Hero"
 
 [ForgeMenu_UI:UIResolutionContainer_0.ForgeBG.SwapHeroButton UIScriptWidget_Button]
 displayString="Swap Hero"
@@ -377,7 +377,7 @@ displayString="Campaign"
 displayString="Challenges"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.aNextButton UILabelButton]
-CaptionDataSource.MarkupString="Sekven"
+CaptionDataSource.MarkupString="Next"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.Description UILabel]
 DataSource.MarkupString="Choose your colors wisely! Though you may return to change your colors once you've tired of these old clothes."
@@ -389,40 +389,40 @@ CaptionDataSource.MarkupString="Select"
 DataSource.MarkupString="Description"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ColorsTab.UIPanel_Arc_0.PrimaryColor.BlueLabel UILabel]
-DataSource.MarkupString="Bluo"
+DataSource.MarkupString="Blue"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.CloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.CycleDifficultyButtonDown UIScriptWidget_Button]
-displayString="Malfacileco"
+displayString="Difficulty"
 
 [HeroSelection_UI:RezContainer.HeroSelectionPanel.tEditHeroButton UIScriptWidget_Button]
-displayString="Redakti Heroon"
+displayString="Edit Hero"
 
 [GameSetup_UI:GameSetupRezContainer.GameSetupPanel.CycleDifficultyButtonUp UIScriptWidget_Button]
-displayString="Malfacileco"
+displayString="Difficulty"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.UILabel_0 UILabel]
 DataSource.MarkupString="Item Box"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.ItemInfo UIScriptWidget_Button]
-displayString="Objektinformoj"
+displayString="Item Info"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.BankNameLabel UILabel]
 DataSource.MarkupString="Bank:"
 
 [UI_ItemBox_0:ItemBoxRezContainer.DeletionPanel.DeletionPopupImageBG.CancelDeleteButton UIScriptWidget_Button]
-displayString="Ne"
+displayString="No"
 
 [UI_ItemBox_0:ItemBoxRezContainer.DeletionPanel.DeletionPopupImageBG.ConfirmDeleteButton UIScriptWidget_Button]
-displayString="Jes"
+displayString="Yes"
 
 [UI_ItemBox_0:ItemBoxRezContainer.DeletionPanel.DeletionPopupImageBG.DeleteTextLabel UILabel]
 DataSource.MarkupString="Are you sure you wish to sell?"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.LockItem UIScriptWidget_Button]
-displayString="Ŝlosi Objekton"
+displayString="Lock Item"
 
 [UI_ItemBox_0:ItemBoxRezContainer.UIImage_1.SellAll UIScriptWidget_Button]
 displayString="Sell All"
@@ -431,25 +431,25 @@ displayString="Sell All"
 displayString="Sell To Bank"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelMedium UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 0, 0, 255>Meznivelulo</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 0, 0, 255>Medium</COLOR>"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelInsane UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 255, 0, 0>Majstro</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 255, 0, 0>Master</COLOR>"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelEasy UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 0, 255, 0>Komencanto</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 0, 255, 0>Novice</COLOR>"
 
 [CreateHero_UI:MainCreateHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelHard UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 255, 255, 0>Spertulo</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 255, 255, 0>Veteran</COLOR>"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelEasy UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 0, 255, 0>Komencanto</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 0, 255, 0>Novice</COLOR>"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelHard UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 255, 255, 0>Spertulo</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 255, 255, 0>Veteran</COLOR>"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelInsane UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 255, 0, 0>Majstro</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 255, 0, 0>Master</COLOR>"
 
 [CreateHeroInGame_UI:InGameSelectHeroRezContainer.BackgroundImage.ClassTab.UIPanel_Arc_0.SkillLevelMedium UILabel]
-DataSource.MarkupString="Lerteco de Ludanto: <COLOR: 0, 0, 255>Meznivelulo</COLOR>"
+DataSource.MarkupString="Player Skill Level: <COLOR: 0, 0, 255>Medium</COLOR>"

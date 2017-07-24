@@ -1,5 +1,5 @@
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.UIPanel_Leaderboard_0.PrevMode UIButton_Scripted]
-CaptionDataSource.MarkupString="Ant."
+CaptionDataSource.MarkupString="Prev"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.WavesPanel.WaveBG.LordLabel UILabel]
 DataSource.MarkupString="Lord Medal"
@@ -14,17 +14,17 @@ displayString="All-Time Statistics"
 DataSource.MarkupString="Level Victory:"
 
 [UI.PlayerStats_UI UI_PlayerStats]
-nameTextures[0]=(LocalizedName="Goblino")
-nameTextures[1]=(LocalizedName="Mallumelfa Arkisto")
-nameTextures[2]=(LocalizedName="Orko")
-nameTextures[3]=(LocalizedName="Koboldo")
-nameTextures[4]=(LocalizedName="Mallumelfa Sorĉisto")
-nameTextures[5]=(LocalizedName="Mallumelfa Batalisto")
-nameTextures[6]=(LocalizedName="Ogro")
-nameTextures[7]=(LocalizedName="Skeleto")
-nameTextures[8]=(LocalizedName="Viverno")
-nameTextures[9]=(LocalizedName="Demono")
-nameTextures[10]=(LocalizedName="Antikva Drako")
+nameTextures[0]=(LocalizedName="Goblin")
+nameTextures[1]=(LocalizedName="Dark Elf Archer")
+nameTextures[2]=(LocalizedName="Orc")
+nameTextures[3]=(LocalizedName="Kobold")
+nameTextures[4]=(LocalizedName="Dark Elf Mage")
+nameTextures[5]=(LocalizedName="Dark Elf Warrior")
+nameTextures[6]=(LocalizedName="Ogre")
+nameTextures[7]=(LocalizedName="Skeleton")
+nameTextures[8]=(LocalizedName="Wyvern")
+nameTextures[9]=(LocalizedName="Demon")
+nameTextures[10]=(LocalizedName="Ancient Dragon")
 nameTextures[11]=(LocalizedName="Goblin Mech")
 nameTextures[12]=(LocalizedName="Magic Blockade")
 nameTextures[13]=(LocalizedName="Bouncer Blockade")
@@ -54,10 +54,10 @@ displayString="Campaign"
 displayString="Challenges"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.theNextButton UIScriptWidget_Button]
-displayString="Sekv."
+displayString="Next"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.thePrevButton UIScriptWidget_Button]
-displayString="Ant."
+displayString="Prev"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.ResizeAll.UIPanel_1.ModePanel.BestOfButton UIScriptWidget_ToggleButton]
 displayString="Best Statistics"
@@ -81,7 +81,7 @@ DataSource.MarkupString="Wave #3"
 displayString="Insane"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.theCloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [LeaderboardPrefab:UIPanel_Leaderboard_Arc_0.gameModePanel.UILabel_0 UILabel]
 DataSource.MarkupString="Game Mode:"
@@ -93,7 +93,7 @@ DataSource.MarkupString="View Mode:"
 DataSource.MarkupString="Game Over:"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.Enemies UIToggleButton]
-CaptionDataSource.MarkupString="Malamikoj"
+CaptionDataSource.MarkupString="Enemies"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.Heroes UIToggleButton]
 CaptionDataSource.MarkupString="Heroes"
@@ -114,7 +114,7 @@ CaptionDataSource.MarkupString="Waves"
 DataSource.MarkupString="Leaderboard"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.UIPanel_Leaderboard_0.nextMode UIButton_Scripted]
-CaptionDataSource.MarkupString="Sekv."
+CaptionDataSource.MarkupString="Next"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.WavesPanel.WaveBG.CoreAttackLabel UILabel]
 DataSource.MarkupString="Core Attack"
@@ -150,10 +150,10 @@ DataSource.MarkupString="Difficulty :"
 displayString="Accomplishments"
 
 [UI.GameStatsUI:StatRezContainer.gDeletionPanel.pDeletionPopupImageBG.gConfirmDeleteButton UIScriptWidget_Button]
-displayString="Jes"
+displayString="Yes"
 
 [UI.GameStatsUI:StatRezContainer.gDeletionPanel.pDeletionPopupImageBG.gCancelDeleteButton UIScriptWidget_Button]
-displayString="Ne"
+displayString="No"
 
 [UI.GameStatsUI UI_GameStats]
 panels[0]=(SelectorPositions=((feedbackString="More Info"),(feedbackString="View Enemies"),,,(feedbackString="More Info"),(feedbackString="More Info"),(feedbackString="More Info"),(feedbackString="More Info"),(feedbackString="View Heroes")))

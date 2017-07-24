@@ -1,5 +1,5 @@
 [DunDefDarkElfWarrior]
-DescriptiveName="Mallumelfa Batalisto"
+DescriptiveName="Dark Elf Warrior"
 
 [DunDefInput]
 KeyDescriptions[0]=(KeyDescription="1")
@@ -12,16 +12,16 @@ KeyDescriptions[6]=(KeyDescription="7")
 KeyDescriptions[7]=(KeyDescription="8")
 KeyDescriptions[8]=(KeyDescription="9")
 KeyDescriptions[9]=(KeyDescription="0")
-KeyDescriptions[10]=(KeyDescription="Maldekstra Musbutono")
-KeyDescriptions[11]=(KeyDescription="Dekstra Musbutono")
-KeyDescriptions[12]=(KeyDescription="Meza Musbutono")
-KeyDescriptions[13]=(KeyDescription="Ctrl-klavo")
-KeyDescriptions[14]=(KeyDescription="Ctrl-klavo")
-KeyDescriptions[15]=(KeyDescription="Musrado")
-KeyDescriptions[16]=(KeyDescription="Musrado")
-KeyDescriptions[17]=(KeyDescription="Shift-klavo")
-KeyDescriptions[18]=(KeyDescription="Shift-klavo")
-KeyDescriptions[19]=(KeyDescription="Spacoklavo")
+KeyDescriptions[10]=(KeyDescription="Left Mouse Button")
+KeyDescriptions[11]=(KeyDescription="Right Mouse Button")
+KeyDescriptions[12]=(KeyDescription="Middle Mouse Button")
+KeyDescriptions[13]=(KeyDescription="Control")
+KeyDescriptions[14]=(KeyDescription="Control")
+KeyDescriptions[15]=(KeyDescription="Mouse Wheel")
+KeyDescriptions[16]=(KeyDescription="Mouse Wheel")
+KeyDescriptions[17]=(KeyDescription="Shift")
+KeyDescriptions[18]=(KeyDescription="Shift")
+KeyDescriptions[19]=(KeyDescription="Space Bar")
 KeyDescriptions[20]=(KeyDescription="(X)")
 KeyDescriptions[21]=(KeyDescription="(Y)")
 KeyDescriptions[22]=(KeyDescription="(B)")
@@ -38,30 +38,30 @@ KeyDescriptions[32]=(KeyDescription="(Left Trigger)")
 KeyDescriptions[33]=(KeyDescription="(Right Trigger)")
 KeyDescriptions[34]=(KeyDescription="(Left Thumbstick)")
 KeyDescriptions[35]=(KeyDescription="(Right Thumbstick)")
-BindingDescriptions[0]=(Description="Moviĝi Antaŭen")
-BindingDescriptions[1]=(Description="Moviĝi Malantaŭen")
-!!BindingDescriptions[2]=(Description="Strafe Left")
-!!BindingDescriptions[3]=(Description="Strafe Right")
-BindingDescriptions[4]=(Description="Salti / Konfirmi Agon")
-BindingDescriptions[5]=(Description="Paŭzi")
-BindingDescriptions[6]=(Description="Aktivigi / Deponi Ekipaĵon")
-BindingDescriptions[7]=(Description="Kolekti Ekipaĵon")
-!!BindingDescriptions[8]=(Description="Ability HotKeys")
-!!BindingDescriptions[9]=(Description="Ability HotKeys")
-!!BindingDescriptions[10]=(Description="Ability HotKeys")
-!!BindingDescriptions[11]=(Description="Ability HotKeys")
-BindingDescriptions[12]=(Description="Turni Kameraon")
-BindingDescriptions[13]=(Description="Montri Lokan Mapon")
-!!BindingDescriptions[14]=(Description="Nulligi Agon / Call-Out")
-!!BindingDescriptions[15]=(Description="Cycle Camera Zoom")
-BindingDescriptions[16]=(Description="Montri&&Inventaron")
-BindingDescriptions[17]=(Description="Malfermi Ago-radon")
-BindingDescriptions[18]=(Description="Uzi Armilon / Konfirmi Agon")
-BindingDescriptions[19]=(Description="Alternativa Uzo de Armilo")
-BindingDescriptions[20]=(Description="Moviĝi")
-BindingDescriptions[21]=(Description="Turniĝi")
-BindingDescriptions[22]=(Description="Zomi Kameraon")
-BindingDescriptions[23]=(Description="Turniĝi")
+BindingDescriptions[0]=(Description="Move Forward")
+BindingDescriptions[1]=(Description="Move Backward")
+BindingDescriptions[2]=(Description="Strafe Left")
+BindingDescriptions[3]=(Description="Strafe Right")
+BindingDescriptions[4]=(Description="Jump / Confirm Action")
+BindingDescriptions[5]=(Description="Pause")
+BindingDescriptions[6]=(Description="Activate / Pickup Equipment")
+BindingDescriptions[7]=(Description="Store Equipment")
+BindingDescriptions[8]=(Description="Ability HotKeys")
+BindingDescriptions[9]=(Description="Ability HotKeys")
+BindingDescriptions[10]=(Description="Ability HotKeys")
+BindingDescriptions[11]=(Description="Ability HotKeys")
+BindingDescriptions[12]=(Description="Rotate Camera")
+BindingDescriptions[13]=(Description="Display Area Map")
+BindingDescriptions[14]=(Description="Cancel Action / Call-Out")
+BindingDescriptions[15]=(Description="Cycle Camera Zoom")
+BindingDescriptions[16]=(Description="Show Inventory")
+BindingDescriptions[17]=(Description="Open Action Wheel")
+BindingDescriptions[18]=(Description="Use Weapon / Confirm Action")
+BindingDescriptions[19]=(Description="Alternate Weapon Usage")
+BindingDescriptions[20]=(Description="Move")
+BindingDescriptions[21]=(Description="Turn")
+BindingDescriptions[22]=(Description="Zoom Camera")
+BindingDescriptions[23]=(Description="Turn")
 
 [UI_OptionsMenu]
 ControlSchemeName[0]="Strafing Control Scheme"
@@ -74,7 +74,7 @@ InfiniteWaveString="Infinite Waves"
 RetrieveString="Retrieving Leaderboards..."
 
 [DunDefGoblin]
-DescriptiveName="Goblino"
+DescriptiveName="Goblin"
 
 [UI_CreateHero]
 MSG_PickNameTitle="Choose name:"
@@ -85,7 +85,7 @@ customTemplateName="Custom"
 DescriptiveName="Practice Dummy"
 
 [DunDefAchievementTrophy]
-ActivationString_Use="(Detaloj)"
+ActivationString_Use="(Show Info)"
 
 [DunDefPlayerAbility_GenericActorSpawner]
 DescriptiveName="Set Unique Description In Archetype"
@@ -126,7 +126,7 @@ LoginCancelled=Login cancelled by user
 SaveLoginInfo=Save Login Info?
 
 [DunDefEnemy]
-DescriptiveName="Malamiko"
+DescriptiveName="Enemy"
 
 [UI_MultiplayerMenu]
 MSG_NoGamesFoundTitle="No Games Found"
@@ -165,10 +165,10 @@ UpgradeToText="Upgrade To Level"
 AttackRangeString="Attack Range:"
 AttackDamageString="Attack Damage:"
 AttackIntervalString="Attack Rate:"
-AttackIntervalEndString="Sekundoj"
-TowerUnitCostString="Defendaĵpoentoj:"
-HideDetailsString="(Kaŝi Detalojn)"
-ShowDetailsString="(Montri Detalojn)"
+AttackIntervalEndString="Seconds"
+TowerUnitCostString="Defense Units:"
+HideDetailsString="(Hide Details)"
+ShowDetailsString="(Show Details)"
 
 [DunDefPlayerAbility_SellTower]
 NotificationString="Select Defense To Sell"
@@ -182,7 +182,7 @@ DetonationResetTimeString="Detonation Reset Time:"
 AttackRangeString="Effective Range:"
 
 [DunDefSkeleton]
-DescriptiveName="Skeleto"
+DescriptiveName="Skeleton"
 
 [HeroEquipment_Familiar]
 ForgedByDescription="Raised By"
@@ -194,28 +194,28 @@ bestString="Best "
 leastString="Least "
 mostString="Most "
 killString="Kills"
-playerString="Ludanto "
+playerString="Player "
 towerString="Defense "
 towersString="Defenses "
 builtString="Built"
 repairString="Repaired"
 destroyString="Destroyed"
 soldString="Sold"
-timeString="Tempo"
-chestString="Malfermitaj Kofroj"
-manaString="Gajnita Manao"
-expString="Akirita Sperto"
-scoreString="Poentsumo"
+timeString="Time"
+chestString="Chests Opened"
+manaString="Mana Earned"
+expString="Experience Gained"
+scoreString="Score"
 damageString="Damage Taken"
-DeathString="Mortoj"
+DeathString="Deaths"
 naString="N/A"
 pureStrategyString="Pure Strategy"
 survivalString="Survival"
 highestString="Highest"
-waveString="Ondo"
+waveString="Wave"
 endingsAchieved="Endings Achieved: "
-towerButtonString="Defendaĵoj"
-enemyButtonString="Malamikoj"
+towerButtonString="Defenses"
+enemyButtonString="Enemies"
 treasureButtonString="Treasure"
 generalString="General"
 awardString="Awards"
@@ -233,7 +233,7 @@ lordString="Lord"
 handymanString="HandyMan"
 
 [DunDefDemon]
-DescriptiveName="Demono"
+DescriptiveName="Demon"
 
 [DunDefGameReplicationInfo]
 ScoreAwardPreStrings[1]="Completed Wave"
@@ -251,7 +251,7 @@ ScoreAwardPostStrings[7]="  +"
 ScoreAwardPostStrings[8]="'  +"
 MajorNotificationLabels[0]="        All Players Healed        "
 MajorNotificationLabels[1]="    All Players and Core Healed    "
-MajorNotificationLabels[2]="Ondo"
+MajorNotificationLabels[2]="Wave"
 MajorNotificationLabels[3]="Better Luck Next Time"
 GameOverDescriptionReasons[0]="An Eternia Crystal Was Destroyed!"
 SpectatorWaitString="Waiting For Build Phase To Join. . ."
@@ -260,35 +260,35 @@ SurvivalModeString="Survival"
 statsWaitText="Sending stats..."
 
 [UI_GameSetup]
-ChallengeString="Devio:"
-LevelString="Nivelo:"
-DifficultyString="Malfacileco:"
-InfiniteBuildTimeString="Senlima Konstrutempo:"
-SurvivalModeString="Traviva Reĝimo:"
-StartingWaveString="Komenca Ondo:"
-!!TavernItemPickupString="Tavern Item Pickups:"
-??PureStrategyModeString="Nurstrategia Reĝimo:"
-MSG_DLCWarningDescription1="Ne ĉiuj ludantoj havas al elŝutenhavan mapon"
-MSG_DLCWarningDescription2="Se vi ŝanĝos al tiu nivelo, jenaj ludantoj eligiĝos el la ludo:"
-MSG_DLCWarningDescription3="Ĉu vi certas, ke vi volas ŝanĝi al ĉi tiu nivelo?"
-MSG_DLCWarningTitle="Averto"
-OnStrings[0]="Ŝlosita"
-OnStrings[1]="Malŝlosita"
-StringYes="Jes"
-StringNo="Ne"
+ChallengeString="Challenge:"
+LevelString="Level:"
+DifficultyString="Difficulty:"
+InfiniteBuildTimeString="Infinite Build Time:"
+SurvivalModeString="Survival Mode:"
+StartingWaveString="Starting Wave:"
+TavernItemPickupString="Tavern Item Pickups:"
+PureStrategyModeString="Pure Strategy Mode:"
+MSG_DLCWarningDescription1="Not all players have the downloadable content map"
+MSG_DLCWarningDescription2="If you change to this level the following players will be booted from the game:"
+MSG_DLCWarningDescription3="Are you sure you want to switch to this level?"
+MSG_DLCWarningTitle="Warning"
+OnStrings[0]="Locked"
+OnStrings[1]="Unlocked"
+StringYes="Yes"
+StringNo="No"
 
 [UIScriptWidget_HeroSelectionButton]
-LevelString="Nivelo"
-HealthString="Vivo"
-manaString="Manao"
-MaxManaString="Maks. Manao"
-MaxHealthString="Maks. Vivo"
+LevelString="Level"
+HealthString="Health"
+manaString="Mana"
+MaxManaString="Max Mana"
+MaxHealthString="Max Health"
 
 [DunDefWaveBillboard]
-enemiesString="Malamikoj:"
+enemiesString="Enemies:"
 
 [DunDefPlayer]
-ActivationString="Vidi Heroinformojn"
+ActivationString="View Hero Info"
 HealthString="Health:"
 manaString="Mana:"
 
@@ -326,12 +326,12 @@ DefaultStatNames[7]="Defense Health"
 DefaultStatNames[8]="Defense Attack Rate"
 DefaultStatNames[9]="Defense Base Damage"
 DefaultStatNames[10]="Defense Area of Effect"
-LobbyLevelName="Drinkejo"
+LobbyLevelName="Tavern"
 CorruptSaveTitle="Corrupt Save"
 CorruptSaveMsg="Your save was corrupted. Hero backup successful"
 
 [DunDefMapInfo]
-DefaultMissionObjectiveText="Defendu la Eterniajn Kristalojn!"
+DefaultMissionObjectiveText="Defend the Eternia Crystals!"
 LobbyLevelPreDescription="The Tavern of"
 
 [DunDefTower_AuraStickyGloop]
@@ -351,8 +351,8 @@ AttackIntervalString="Attack Duration:"
 ChainTargetsString="Max Chain Targets:"
 
 [UI_CustomizeCrystal]
-LockedString="Forŝlosita!"
-RequiredString="Neceso:"
+LockedString="Locked!"
+RequiredString="Required:"
 
 [UI_PauseMenu]
 LeaveGameString="Leave Game"
@@ -429,11 +429,11 @@ MSG_PasswordDescription="The password you entered does not match, please try aga
 SummonedByString="Summoned by "
 
 [DunDefWeapon]
-ReloadString="Reŝargi"
+ReloadString="Reloading"
 
 [UIScriptWidget_EquipmentStat]
 DamageResistanceString="Damage Resistance Bonus"
-BonusString="Bonuso"
+BonusString="Bonus"
 
 [DunDefViewportClient]
 MSG_DuplicateLoginTitle="Duplicate Login"
@@ -602,7 +602,7 @@ InfiniteWaveString="Infinite Waves"
 RetrieveString="Retrieving Leaderboards..."
 pureStrategyString="Pure Strategy"
 CampaignString="Campaign"
-ChallengeString="Devio"
+ChallengeString="Challenge"
 
 [DunDefTower_SliceNDice]
 DamageRateAtMaxSpinString="Damage Rate At Max Spin:"
@@ -612,13 +612,13 @@ AttackIntervalString="Time To Reach Max Spin:"
 genericFeedbackString="More Info"
 hideInfoString="Hide Info"
 showGamerCardString="Show Gamer Info"
-timeString="Tempo"
+timeString="Time"
 totalString="Total"
 combatString="Combat"
 buildString="Build"
 killsString="Kills"
 playersString="Heroes"
-towersString="Defendaĵoj"
+towersString="Defenses"
 wavesString="Waves in Combat"
 chestsString="Treasure Chests"
 builtString="Built"
@@ -630,14 +630,14 @@ bootyString="Booty"
 usefulBootyString="Useful"
 unusefulBootyString="Not Useful"
 enemiesEncounteredString="Enemies Spawned"
-deathsString="Mortoj"
-totalExpString="Akirita Sperto"
+deathsString="Deaths"
+totalExpString="Experience Gained"
 totalManaString="Mana Collected"
 mvpString="Most Valuable Hero"
 awardsString="Awards"
 LevelString="Level"
-waveString="Ondo"
-enemiesString="Malamikoj"
+waveString="Wave"
+enemiesString="Enemies"
 spawnedString="Spawned"
 killedString="Killed"
 playerDamageString="Player Damage"
@@ -653,13 +653,13 @@ bestString="Best "
 leastString="Least "
 mostString="Most "
 naString="N/A"
-playerString="Ludanto "
-scoreString="Poentsumo"
+playerString="Player "
+scoreString="Score"
 pureStrategyString="Pure Strategy"
 survivalString="Survival"
 highestString="Highest"
 receivingString="Receiving Statistics..."
-exitString="Eliri Ludon"
+exitString="Exit Game"
 
 [DunDefPlayerReplicationInfo]
 LevelUpMessageString="levelled up!"
@@ -699,9 +699,9 @@ AbilityUnlockedMessageString="' Ability Is Now Unlocked!"
 LocalizedSettingsMappings[0]=(ValueMappings=())
 
 [DunDefOnlineGameSettingsConsole]
-LobbyLevelName="Drinkejo"
-Difficulty.FriendlyName="Malfacileco"
-LevelFriendlyName.FriendlyName="Mapo"
+LobbyLevelName="Tavern"
+Difficulty.FriendlyName="Difficulty"
+LevelFriendlyName.FriendlyName="Map"
 SurvivalMode.FriendlyName="Infinite Waves?"
 InfiniteBuild.FriendlyName="Infinite Build?"
 PureStrategy.FriendlyName="Pure Strategy?"
@@ -719,7 +719,7 @@ DescriptiveName="Orc"
 ActivationFailureString_NeedTowerUnits="Need"
 ActivationTowerUnitsString="Free Defense Units"
 ActivationSummonString="to summon"
-TowerUnitDescriptionString="Defendaĵpoentoj"
+TowerUnitDescriptionString="Defense Units"
 ChooseWhereToSummonString="Choose where to summon"
 SummoningString="Summoning"
 SetRotationString="Set rotation of"
@@ -736,8 +736,8 @@ heroString="Hero:"
 EquipmentString="Equipment:"
 
 [UI_ItemBox]
-LockItemString="Ŝlosi Objekton"
-UnlockItemString="Malŝlosi Objekton"
-AllItemsString="Ĉiuj Malŝlositaj Objektoj!"
-SellAllInLobbyString="Vendi Ĉiujn En Drinkejo"
-SellInLobbyString="Vendi En Drinkejo"
+LockItemString="Lock Item"
+UnlockItemString="Unlock Item"
+AllItemsString="All Unlocked Items!"
+SellAllInLobbyString="Sell All In Tavern"
+SellInLobbyString="Sell In Tavern"

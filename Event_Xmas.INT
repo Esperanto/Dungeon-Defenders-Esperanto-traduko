@@ -1,7 +1,7 @@
 [BoomboxToolTipArch DunDefToolTipMesh]
-!!ToolTipText="Boombox"
-ActivationText="Ŝanĝi Muzikon"
+ToolTipText="Boombox"
+ActivationText="Change Tunes"
 
 [TVToolTipArch DunDefToolTipMesh]
-ToolTipText="HD-televidilo"
-ActivationText="Ŝanĝi Kanalon"
+ToolTipText="High Definition Television"
+ActivationText="Change Channel"

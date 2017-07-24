@@ -1,21 +1,21 @@
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
-StringVar="Venko de la Nivelo"
+StringVar="Level Victory"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
-StringVar="Aktivigu Kristalon por Pluiri"
+StringVar="Activate Crystal To Proceed"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
-StringVar="Al la Sekva Nivelo"
+StringVar="Proceeding To Next Level"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
-StringVar="Lasta Ondo!"
+StringVar="Final Wave!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
-StringVar="Ondo kun Estro!"
+StringVar="Boss Wave!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Atentu pri la Vivernoj!"
+StringVar="Beware the Wyverns!"
 
 [TheWorld:PersistentLevel.WorldInfo_2.DunDefMapInfo_1 DunDefMapInfo]
-DefaultMissionObjectiveText="Venku ĉiun, kaj atingu la Poentlimon!"
+DefaultMissionObjectiveText="Defeat everyone, and reach the Score Limit!"
 

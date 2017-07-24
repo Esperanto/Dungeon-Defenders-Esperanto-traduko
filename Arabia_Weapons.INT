@@ -1,40 +1,40 @@
 [Campaign.BoardswordStyle4_Boss HeroEquipment]
-EquipmentName="Kristranĉilo de la Efritoj"
-EquipmentDescription="Majstra glavo farita de la Ĝinoj"
+EquipmentName="Crysknife of the Efreet"
+EquipmentDescription="Masterwork blade crafted by the Djinns."
 
 [Campaign.BroadswordStyle8_EMH HeroEquipment]
-??EquipmentName="Ebonnigra Falkiono"
-EquipmentDescription="La klingo estas farita el Obsidiano."
+EquipmentName="Ebon Falchion"
+EquipmentDescription="The blade has been shaped from Obsidian."
 
 [Campaign.CrossbowStyle7_EMH HeroEquipment]
-??EquipmentName="Samiel la Senhaŭtigilo"
-EquipmentDescription="Kun fiksitaj dentoj de falintoj."
+EquipmentName="Samiel the Flayer"
+EquipmentDescription="Fitted with the teeth of the fallen."
 
 [Campaign.CrossbowStyle8_Boss HeroEquipment]
-EquipmentName="Ibliso de Mil Ventoj"
-EquipmentDescription="La furiozo de ŝtormo pulsas ene."
+EquipmentName="Shaitan of a Thousand Winds"
+EquipmentDescription="The fury of a storm pulses within."
 
 [Campaign.MagicStaffStyle4_EMH HeroEquipment]
-EquipmentName="Nemortanta Vergo"
-EquipmentDescription="Malbenita femuro de la Sablaj Ogroj."
+EquipmentName="Undying Rod"
+EquipmentDescription="Cursed femur of the Sand Ogres."
 
 [Campaign.MagicStaffStyle7_Boss HeroEquipment]
-??EquipmentName="Oftalmo de la Ĝinreĝo"
-??EquipmentDescription="Okulo kuŝas sur vi..."
+EquipmentName="Oculus of the Genie King"
+EquipmentDescription="An eye is upon you..."
 
 [Campaign.MonkSpearStyle2_Boss HeroEquipment]
-??EquipmentName="Sunkisita Sabro de Junbao"
-EquipmentDescription="La fokusita povo de la suno flamas antaŭen."
+EquipmentName="Junbao's Sun-kissed Saber"
+EquipmentDescription="The focused power of the sun blazes forth."
 
 [Campaign.MonkSpearStyle9_EMH HeroEquipment]
-EquipmentName="Lumetklinga Cimitaro"
-EquipmentDescription="Ĝia surfaco estas blindiga."
+EquipmentName="Shimmerblade Scimitar"
+EquipmentDescription="It's surface is blinding."
 
 [Challenge.CrossbowStyle8_EMH HeroEquipment]
-??EquipmentName="Shai Hulud"
-??EquipmentDescription="Teruraĵo de la sablo."
+EquipmentName="Shai Hulud"
+EquipmentDescription="Terror of the sands."
 
 [Challenge.MagicStaffStyle05 HeroEquipment]
-??EquipmentName="Kristalerbastono de la Ĝinreĝo"
-EquipmentDescription="Brila kristalo, kiu pendas en ŝrumpita lango."
+EquipmentName="Genie King's Shardstaff"
+EquipmentDescription="A glowing crystal suspended in a shriveled tongue."
 

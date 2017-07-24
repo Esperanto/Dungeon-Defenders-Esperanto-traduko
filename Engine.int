@@ -33,7 +33,7 @@ OwningPlayerName.FriendlyName=Server Name
 Title="Dungeon Defenders - The Summit"
 
 [UIDataStore_OnlineStats]
-PlayerNickData.PlayerNickColumnName="Ludanto"
+PlayerNickData.PlayerNickColumnName="Player"
 RankNameMetaData.RankColumnName="Rank"
 
 [UIList]

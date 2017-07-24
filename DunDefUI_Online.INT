@@ -17,7 +17,7 @@ DataSource.MarkupString="Filter Host Hero Level"
 DataSource.MarkupString="Hard"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.btnAccept UIScriptWidget_Button]
-displayString="Akcepti"
+displayString="Accept"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.pnlOptions2.imgPureStrategyBg.pureStrategy UIScriptWidget_Button]
 displayString="Pure Strategy"
@@ -38,10 +38,10 @@ CaptionDataSource.MarkupString="OK"
 DataSource.MarkupString="Game Search Filters"
 
 [DunDefMessagebox:UIResolutionContainer_0.imgBackground.btnCancel UIButton_Scripted]
-CaptionDataSource.MarkupString="Nuligi"
+CaptionDataSource.MarkupString="Cancel"
 
 [DunDefMessagebox:UIResolutionContainer_0.imgBackground.btnNo UIButton_Scripted]
-CaptionDataSource.MarkupString="Ne"
+CaptionDataSource.MarkupString="No"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.pnlOptions2.imgPureStrategyBg.UILabel_2 UILabel]
 DataSource.MarkupString="Any"
@@ -56,22 +56,22 @@ CaptionDataSource.MarkupString="Create GameSpy Account"
 CaptionDataSource.MarkupString="Play LAN Games"
 
 [DataListEntry_MissionListEntryFilter:UIButton_DataListEntry_Arc_0 UIButton_DataListEntry]
-displayString="Defaŭlta Nomo de Misio"
+displayString="Default Mission Name"
 
 [DunDefMessagebox:UIResolutionContainer_0.imgBackground.lblTitle UILabel]
 DataSource.MarkupString="Joining"
 
 [DunDefMessagebox:UIResolutionContainer_0.imgBackground.btnYes UIButton_Scripted]
-CaptionDataSource.MarkupString="Jes"
+CaptionDataSource.MarkupString="Yes"
 
 [GamespyLogin_UI:GamespyLoginRezContainer.UIImage_0.CancelButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Nuligi"
+CaptionDataSource.MarkupString="Cancel"
 
 [MultiplayerMenu:MPMenuRezContainer.imgBackground.btnBack UIButton_Scripted]
-CaptionDataSource.MarkupString="Reen"
+CaptionDataSource.MarkupString="Back"
 
 [MultiplayerMenu:MPMenuRezContainer.imgBackground.UIImage_0.lblTitle UILabel]
-DataSource.MarkupString="Ludi Enrete"
+DataSource.MarkupString="Play Online"
 
 [GamespyLogin_UI:GamespyLoginRezContainer.UIImage_0.UIImage_0.UILabel_1 UILabel]
 DataSource.MarkupString="GameSpy ID:"
@@ -131,7 +131,7 @@ DataSource.MarkupString="Password:"
 displayString="More Options"
 
 [PasswordPrompt:RezContainer.darkBackground.BackgroundImage.CancelButton UIScriptWidget_Button]
-displayString="Nuligi"
+displayString="Cancel"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.pnlOptions2.imgInfiniteBuildBg.UILabel_2 UILabel]
 DataSource.MarkupString="Any"
@@ -140,7 +140,7 @@ DataSource.MarkupString="Any"
 DataSource.MarkupString="GameSpy Login"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.btnCancel UIScriptWidget_Button]
-displayString="Nuligi"
+displayString="Cancel"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.pnlOptions2.imgInfiniteBuildBg.InfiniteBuild UIScriptWidget_Button]
 displayString="Infinite Build Time"

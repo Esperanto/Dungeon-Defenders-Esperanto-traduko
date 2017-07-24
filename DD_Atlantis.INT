@@ -1,36 +1,36 @@
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Ogro Alvenis"
+StringVar="An Ogre Has Arrived"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
-StringVar="Venko de la Nivelo"
+StringVar="Level Victory"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
-StringVar="Aktivigu Kristalon por Pluiri"
+StringVar="Activate Crystal To Proceed"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
-StringVar="Al la Sekva Nivelo"
+StringVar="Proceeding To Next Level"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
-StringVar="Lasta Ondo!"
+StringVar="Final Wave!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
-StringVar="Ondo kun Estro!"
+StringVar="Boss Wave!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Atentu pri la Fiŝ-vivernoj!"
+StringVar="Beware the Fish-Wyverns!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Savu Akvanoson antaŭ ol la akvo altiĝas!"
+StringVar="Save Aquanos before the water rises!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelVictory.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Vi kolektis la Eternian Fragmenton el Akvanoso!"
+StringVar="Collected Aquanos Eternia Shard!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.BossTimer.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="La Estro Alproksimiĝas..."
+StringVar="The Boss Approaches..."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_1 DunDef_SeqVar_LocalizedString]
-StringVar="Krakeno"
+StringVar="Kraken"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelWaveSpawners.BossFight.DunDef_SeqVar_LocalizedString_2 DunDef_SeqVar_LocalizedString]
-StringVar="Estro Venkita!"
+StringVar="Boss Defeated!"
 

@@ -1,59 +1,59 @@
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.UIImage_10.TavernShop UILabel]
-DataSource.MarkupString="Drinkeja Vendejo"
+DataSource.MarkupString="Tavern Shop"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.fHeroInfo UIScriptWidget_Button]
-displayString="Heroinformoj"
+displayString="Hero Info"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.fItemBoxButton UIScriptWidget_Button]
-displayString="Objektbanko"
+displayString="Item Box"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.ForgeCloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.LevelUpLabel UILabel]
-DataSource.MarkupString="Altniveliĝo Haveblas!"
+DataSource.MarkupString="Level Up Is Available!"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.SwapHeroButton UIScriptWidget_Button]
-displayString="Ŝanĝi Heroon"
+displayString="Swap Hero"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.BankBG.BankedManaLabel.BankedManaTextLabel UILabel]
-DataSource.MarkupString="Enbankigita Manao"
+DataSource.MarkupString="Banked Mana"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.Forge UILabel]
-DataSource.MarkupString="Forĝejo"
+DataSource.MarkupString="Forge"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.UIImage_10.UILabel_8 UILabel]
-DataSource.MarkupString="Drinkeja Vendejo"
+DataSource.MarkupString="Tavern Shop"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.BuyManaButton UIScriptWidget_Button]
-!!displayString="Get Mana"(noto: mankas kunteksto)
+displayString="Get Mana"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.ItemShopButton UIScriptWidget_Button]
-displayString="Objektovendejo"
+displayString="Item Shop"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ItemShopPanel.BuyItemButton UIScriptWidget_Button]
-displayString="Aĉeti Objekton!"
+displayString="Buy Item!"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ItemShopPanel.EquipmentType0Button UIScriptWidget_Button]
-!!displayString="Pets"
+displayString="Pets"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ItemShopPanel.EquipmentType1Button UIScriptWidget_Button]
-displayString="Armiloj"
+displayString="Weapons"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ItemShopPanel.EquipmentType2Button UIScriptWidget_Button]
-displayString="Armaĵoj"
+displayString="Armors"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ItemShopPanel.ItemInfoButton UIScriptWidget_Button]
-displayString="Objektinformoj"
+displayString="Item Info"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.ServicesButton UIScriptWidget_Button]
-!!displayString="Services"(noto: mankas kunteksto)
+displayString="Services"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ServicesPanel.RenameHeroButton UIScriptWidget_Button]
-displayString="Renomi Heroon"
+displayString="Rename Hero"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ServicesPanel.RespecHeroButton UIScriptWidget_Button]
-!!displayString="Respec Hero"
+displayString="Respec Hero"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.UIImage_0.ServicesPanel.XPBonusButton UIScriptWidget_Button]
-displayString="Spertbonuso"
+displayString="XP Bonus"

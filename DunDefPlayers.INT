@@ -47,7 +47,7 @@ ToolTipDescription="This turret shoots harpoons through enemies,&useful for when
 ToolTipDescription="All enemies within this Aura become&hostile towards one another!"
 
 [ActionWheel.WheelEntry_Character ActionWheelEntry]
-DescriptiveName="Heroo"
+DescriptiveName="Hero"
 ToolTipDescription="Access your Hero abilities,&inventory, and statistics."
 
 [ActionWheel.WheelEntry_Squire_Build_SpikyBlockade ActionWheelEntry]
@@ -70,19 +70,19 @@ CastingDescription="Casting Mana Bomb"
 DescriptiveName="Mana Bomb"
 
 [Abilities.Ability_SellTower DunDefPlayerAbility_SellTower]
-DescriptiveName="Vendi Defendaĵon"
+DescriptiveName="Sell Defense"
 
 [Abilities.Ability_Initiate_Invisibility DunDefPlayerAbility_Initiate_Invisibility]
 DescriptiveName="Invisibility"
 
 [Abilities.Ability_UpgradeTower DunDefPlayerAbility_UpgradeTower]
-DescriptiveName="Plibonigi Defendaĵon"
+DescriptiveName="Upgrade Defense"
 
 [ActionWheel.WheelEntry_Apprentice_Overcharge ActionWheelEntry]
 ToolTipDescription="Reduce your summoning times dramatically&while this ability is active."
 
 [Abilities.Ability_RepairTower DunDefPlayerAbility_RepairTower]
-DescriptiveName="Ripari Defendaĵon"
+DescriptiveName="Repair Defense"
 
 [ActionWheel.WheelEntry_Build_DarknessTrap ActionWheelEntry]
 ToolTipDescription="When this trap is triggered, a cloud of darkness&makes enemies lose their current target, and lose any elemental effect."
@@ -115,7 +115,7 @@ ToolTipDescription="Emits coughing gas when detonated,&stunning all nearby enemi
 ToolTipDescription="When this trap is triggered, a single enemy&on the trap area is skewered for massive damage."
 
 [ActionWheel.WheelEntry_HeroInfo ActionWheelEntry]
-DescriptiveName="Heroinformoj"
+DescriptiveName="Hero Info"
 ToolTipDescription="View your Hero's statistics and inventory."
 
 [ActionWheel.WheelEntry_Recruit_TowerBoost ActionWheelEntry]
@@ -125,7 +125,7 @@ ToolTipDescription="Increases the potency of all nearby Towers&and regenerates t
 ToolTipDescription="Unleash a devastating circular attack&against all foes around you!"
 
 [ActionWheel.WheelEntry_Build ActionWheelEntry]
-DescriptiveName="Alvoki Defendaĵojn"
+DescriptiveName="Summon Defenses"
 ToolTipDescription="Choose to summon from&among your Defenses!"
 
 [ActionWheel.WheelEntry_Apprentice_ManaBomb ActionWheelEntry]
@@ -148,11 +148,11 @@ StatNames[5]="Overcharge"
 StatNames[6]="Mana Bomb"
 StatDescriptions[5]="Overcharge allows the Apprentice to summon Defenses and&cast Spells much more quickly than normal."
 StatDescriptions[6]="Mana Bomb unleashes a devastating explosive blast that deals massive damage to all nearby enemies."
-HeroClassDisplayName="Metilernanto"
+HeroClassDisplayName="Apprentice"
 HeroClassDescription="Donning his robe and wizard hat, the Apprentice is eager to delve deeper into the world of the arcane. Under the guidance of the Grand Magus, the Apprentice has learned the art of conjuration. While summoning towers of mystical defense to aid him, he blasts his enemies with waves of magic from afar."
-colorTemplates[0]=(colorName="Defaŭlta")
+colorTemplates[0]=(colorName="Default")
 colorTemplates[1]=(colorName="Ember")
-colorTemplates[2]=(colorName="Ĝangala")
+colorTemplates[2]=(colorName="Jungle")
 colorTemplates[3]=(colorName="Hazard")
 colorTemplates[4]=(colorName="Pretty")
 colorTemplates[5]=(colorName="Apothecary")
@@ -170,16 +170,16 @@ StatNames[9]="Trap Damage"
 StatNames[10]="Trap Radius"
 StatDescriptions[5]="Invisibility enables the Initiate to be unseen by all enemies, even while she may attack them!"
 StatDescriptions[6]="Piercing Shot unleashes an ethereal projectile that tears through enemies, while also increasing the damage from the Initiate's weapon."
-HeroClassDisplayName="Ĉasistino"
+HeroClassDisplayName="Huntress"
 HeroClassDescription="Trained in reconnaissance, the sleek and slender Huntress deploys deadly traps and explosives, but do not be fooled by her appearance. This elegant she-devil is trained in ranged weaponry and is sure to always hit her mark. Launching a volley of arrows from the shadows, the enemy never sees her coming!"
-colorTemplates[0]=(colorName="Defaŭlta")
-colorTemplates[1]=(colorName="Vintra")
+colorTemplates[0]=(colorName="Default")
+colorTemplates[1]=(colorName="Winter")
 colorTemplates[2]=(colorName="Maid")
-colorTemplates[3]=(colorName="Festa")
+colorTemplates[3]=(colorName="Party")
 colorTemplates[4]=(colorName="Backwoods")
 colorTemplates[5]=(colorName="Brat")
 colorTemplates[6]=(colorName="Camouflage")
-colorTemplates[7]=(colorName="Korala")
+colorTemplates[7]=(colorName="Coral")
 colorTemplates[8]=(colorName="Cheer")
 colorTemplates[9]=(colorName="Returned")
 
@@ -489,7 +489,7 @@ StatNames[5]="Circular Slice"
 StatNames[6]="Blood Rage"
 StatDescriptions[5]="Circular Slice unleashes a devastating sweep attack against all nearby enemies."
 StatDescriptions[6]="Blood Rage puts the Squire into a state of howling rage, during which he does massively increase damage and moves with increased speed."
-HeroClassDisplayName="Varleto"
+HeroClassDisplayName="Squire"
 HeroClassDescription="A brave knight-in-training, the Squire upholds the honor and nobility of his kingdom with every slice of his blade. Building defenses of brute force and limited range, the Squire prefers melee weapons as his instruments of justice. Bludgeoning spikes and whirling blades unleash the rage he bestows upon his foes."
 colorTemplates[0]=(colorName="Default")
 colorTemplates[1]=(colorName="Courage")
@@ -511,7 +511,7 @@ StatNames[9]="Aura Effect Strength"
 StatNames[10]="Aura Radius"
 StatDescriptions[5]="Tower Boost makes all nearby Towers more effective, increasing their Damage and regenerating their Health."
 StatDescriptions[6]="Hero Boost makes all nearby Heroes more effective, increasing their Damage and regenerating their Health."
-HeroClassDisplayName="Monaĥo"
+HeroClassDisplayName="Monk"
 HeroClassDescription="Once a peaceful and passive student, the Monk has been called from his solitary meditation and forced to take up arms in the defense of his land. Only he, through his expert spear fighting skill, can avenge the death of his master. Channeling his aura, the Monk uses energy to heal his allies and cripple foes."
 colorTemplates[0]=(colorName="Default")
 colorTemplates[1]=(colorName="Warrior")

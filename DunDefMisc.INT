@@ -2,34 +2,34 @@
 CaptionDataSource.MarkupString="Gamer Info"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.tMenuButton UIScriptWidget_Button]
-displayString="Menuo"
+displayString="Menu"
 
 [CharacterSelectUI3D:SelectPlayersRezContainer.Main.tMenuButton UIScriptWidget_Button]
-displayString="Menuo"
+displayString="Menu"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender1.ChooseDefender1 UILabelButton]
-CaptionDataSource.MarkupString="Ŝanĝi"
+CaptionDataSource.MarkupString="Change"
 
 [CharacterSelectUI3D:SelectPlayersRezContainer.Main.Defender0.ChooseDefender0 UILabelButton]
-CaptionDataSource.MarkupString="Ŝanĝi"
+CaptionDataSource.MarkupString="Change"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.CombatPhaseLabel UILabel]
 DataSource.MarkupString="COMBAT"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender1.PlayerName1 UILabel]
-DataSource.MarkupString="Premu START"
+DataSource.MarkupString="Press START"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.HeroInfoButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Heroinformoj"
+CaptionDataSource.MarkupString="Hero Info"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.GameOverLabel UILabel]
 DataSource.MarkupString="GAME OVER"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender2.ChooseDefender2 UILabelButton]
-CaptionDataSource.MarkupString="Ŝanĝi"
+CaptionDataSource.MarkupString="Change"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.TowerUnitsTitle UILabel]
-DataSource.MarkupString="Defendaĵpoentoj"
+DataSource.MarkupString="Defense Units"
 
 [CharacterSelectUI3D:SelectPlayersRezContainer.Main.Title UILabel]
 DataSource.MarkupString="Select Hero"
@@ -38,17 +38,17 @@ DataSource.MarkupString="Select Hero"
 DataSource.MarkupString="Select Heroes"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender2.PlayerName2 UILabel]
-DataSource.MarkupString="Premu START"
+DataSource.MarkupString="Press START"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender0.PlayerName0 UILabel]
-DataSource.MarkupString="Premu START"
+DataSource.MarkupString="Press START"
 
 [CharacterSelectUI3D:SelectPlayersRezContainer.Main.Defender0.PlayerName0 UILabel]
-DataSource.MarkupString="Premu START"
+DataSource.MarkupString="Press START"
 
 [MainMenuUI:MainMenuRezContainer.MainMenuPanel.ButtonPanel.theExitButton UIButton_Scripted]
 ToolTipString="Don't leave us..."
-CaptionDataSource.MarkupString="Eliri Ludon"
+CaptionDataSource.MarkupString="Exit Game"
 
 [NetworkMultiplayer_UI:NetRezContainer.ServerListBG.UILabel_4 UILabel]
 DataSource.MarkupString="Network Multiplayer"
@@ -64,84 +64,84 @@ InternetString="Internet Games"
 CaptionDataSource.MarkupString="Search Filters"
 
 [NetworkMultiplayer_UI:NetRezContainer.ServerListBG.HostGame UIButton_Scripted]
-CaptionDataSource.MarkupString="Gastigi Ludon"
+CaptionDataSource.MarkupString="Host Game"
 
 [NetworkMultiplayer_UI:NetRezContainer.ServerListBG.JoinGame UIButton_Scripted]
-CaptionDataSource.MarkupString="Aliĝi al Ludo"
+CaptionDataSource.MarkupString="Join Game"
 
 [PlayerHUDUI UI_PlayerHUD]
-LevelString="Nivelo"
+LevelString="Level"
 BuildPhaseReadyString="<IMG:DunDefUI.Textures.checkbox_on>"
 BuildPhaseNotReadyString="<IMG:DunDefUI.Textures.checkbox_off>"
-LevelUpAvailableMessageString="Altniveliĝo haveblas!"
-AddedBankManaString="Manao aldoniĝis al via Banko."
+LevelUpAvailableMessageString="Level up is available!"
+AddedBankManaString="Mana Added to your Bank."
 
 [NetworkMultiplayer_UI:NetRezContainer.ServerListBG.LanPanel.UILabel_0 UILabel]
 DataSource.MarkupString="Host Gamespy ID"
 
 [PauseMenuUI:PauseMenuRezContainer.pDeletionPanel.pDeletionPopupImageBG.pConfirmDeleteButton UIScriptWidget_Button]
-displayString="Jes"
+displayString="Yes"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.VictoryPhaseLabel UILabel]
-DataSource.MarkupString="VENKO"
+DataSource.MarkupString="VICTORY"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender3.ChooseDefender3 UILabelButton]
-CaptionDataSource.MarkupString="Ŝanĝi"
+CaptionDataSource.MarkupString="Change"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender3.PlayerName3 UILabel]
-DataSource.MarkupString="Premu START"
+DataSource.MarkupString="Press START"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender0.ChooseDefender0 UILabelButton]
-CaptionDataSource.MarkupString="Ŝanĝi"
+CaptionDataSource.MarkupString="Change"
 
 [PlayerHUDUI:UIResolutionContainer_0.MainStatusPanel.BuildPhasePanel.BuildPhaseReadyLabel UILabel]
 DataSource.MarkupString="<IMG:DunDefUI.Textures.checkbox_off>"
 
 [MainMenuUI:MainMenuRezContainer.MainMenuPanel.ButtonPanel.theLocalButton UIButton_Scripted]
-ToolTipString="Komenci lokan ludsesion."
-CaptionDataSource.MarkupString="Ludi Loke"
+ToolTipString="Begin a local play session."
+CaptionDataSource.MarkupString="Play Local"
 
 [MainMenuUI:MainMenuRezContainer.MainMenuPanel.ButtonPanel.theOnlineButton UIButton_Scripted]
-ToolTipString="Gastigi aŭ Aliĝi enretan ludsesion. Montru viajn povojn al la mondo!"
-CaptionDataSource.MarkupString="Ludi Enrete"
+ToolTipString="Host or Join an online play session. Show the world what you've got!"
+CaptionDataSource.MarkupString="Play Online"
 
 [MainMenuUI:MainMenuRezContainer.MainMenuPanel.ButtonPanel.theOptionsButton UIButton_Scripted]
-ToolTipString="Ĉion laŭ viaj preferoj, tuj."
-CaptionDataSource.MarkupString="Agordoj"
+ToolTipString="Have it your way, right away."
+CaptionDataSource.MarkupString="Options"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.BuildPhaseLabel UILabel]
-DataSource.MarkupString="KONSTRUADO"
+DataSource.MarkupString="BUILD"
 
 [KillCountUI:BossHealthBarRezContainer.HealthBar.BossTextLabel UILabel]
-DataSource.MarkupString="Estro"
+DataSource.MarkupString="Boss"
 
 [buildTimerUI:BuildPRezContainer.BuildPanelBG.KillCountTitle UILabel]
 DataSource.MarkupString="Next Enemies : 9"
 
 [PlayerHUDUI:UIResolutionContainer_0.MainStatusPanel.ExpBarLabel UILabel]
-DataSource.MarkupString="Sperto"
+DataSource.MarkupString="Experience"
 
 [CharacterSelectUI3D:SelectPlayersRezContainer.Main.tBackButton UIScriptWidget_Button]
-displayString="Foriri"
+displayString="Leave"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.tBackButton UIScriptWidget_Button]
-displayString="Foriri"
+displayString="Leave"
 
 [PlayerHUDUI:UIResolutionContainer_0.MainStatusPanel.ScoreIndicator UILabel_ScoreIndicator]
-scoreString="Poentsumo"
+scoreString="Score"
 
 [MainMenuUI:MainMenuRezContainer.MainMenuPanel.ButtonPanel.theStatsButton UIButton_Scripted]
 ToolTipString="Review the numbers behind your heroic exploits!"
-CaptionDataSource.MarkupString="Statistikoj"
+CaptionDataSource.MarkupString="Statistics"
 
 [buildTimerUI:BuildTitleRezContainer.BuildPhaseFadeLabel UILabel]
-DataSource.MarkupString="KONSTRUA FAZO"
+DataSource.MarkupString="BUILD PHASE"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.waveTitle UILabel]
-DataSource.MarkupString="Ondo"
+DataSource.MarkupString="Wave"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.MuteButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Silentigi Ludanton"
+CaptionDataSource.MarkupString="Mute Player"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.VideoPanel.UILabel_11 UILabel]
 DataSource.MarkupString="800x600"
@@ -162,44 +162,43 @@ DataSource.MarkupString="1280x720"
 DataSource.MarkupString="Postprocessing"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.ResumeGameButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Daŭrigi Ludon"
+CaptionDataSource.MarkupString="Resume Game"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UIPanel_2.XboxControlsToggle UIToggleButton]
-CaptionDataSource.MarkupString="Regaj"
+CaptionDataSource.MarkupString="Controls"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.defaultPanel.UILabel_10Copy1 UILabel]
-DataSource.MarkupString=
-"Aŭtomate Montri Altniveliĝon"
+DataSource.MarkupString="Auto Show Level Up"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.defaultPanel.UILabel_1Copy2 UILabel]
-DataSource.MarkupString="Damaĝnombroj"
+DataSource.MarkupString="Damage Numbers"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.VideoPanel.UILabel_5 UILabel]
 DataSource.MarkupString="1680x1050"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.BanPlayerButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Elĵeti Ludanton"
+CaptionDataSource.MarkupString="Kick Player"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UIPanel_2.VideoToggle UIToggleButton]
-CaptionDataSource.MarkupString="Videaj"
+CaptionDataSource.MarkupString="Video"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UIPanel_2.PCControlsToggle UIToggleButton]
-CaptionDataSource.MarkupString="Regaj"
+CaptionDataSource.MarkupString="Controls"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UIPanel_2.PS3ControlsToggle UIToggleButton]
-CaptionDataSource.MarkupString="Regaj"
+CaptionDataSource.MarkupString="Controls"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.defaultPanel.VertSplitLabel UILabel]
 DataSource.MarkupString="Vertical Splitscreen"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.CenteredHeroInfoButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Heroinformoj"
+CaptionDataSource.MarkupString="Hero Info"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UIPanel_2.GeneralToggle UIToggleButton]
-CaptionDataSource.MarkupString="Ĝeneralaj"
+CaptionDataSource.MarkupString="General"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UIPanel_2.VoiceToggle UIToggleButton]
-CaptionDataSource.MarkupString="Voĉaj"
+CaptionDataSource.MarkupString="Voice"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.VoicePanel.IncomingCheckLabel UILabel]
 DataSource.MarkupString="Incoming Voice"
@@ -241,10 +240,10 @@ DataSource.MarkupString="Music Volume"
 DataSource.MarkupString="Show Tutorials"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.InviteButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Inviti Amikojn"
+CaptionDataSource.MarkupString="Invite Friends"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.OptionsButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Agordoj"
+CaptionDataSource.MarkupString="Options"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.MissionSetupButton UIButton_Scripted]
 CaptionDataSource.MarkupString="Mission Setup"
@@ -259,10 +258,10 @@ DataSource.MarkupString="Fullscreen"
 CaptionDataSource.MarkupString="Return to Tavern"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.ConfirmButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Akcepti"
+CaptionDataSource.MarkupString="Accept"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.oCancelButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Nuligi"
+CaptionDataSource.MarkupString="Cancel"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.ManageInvitesButton UIButton_Scripted]
 CaptionDataSource.MarkupString="Manage Invites"
@@ -277,28 +276,28 @@ DataSource.MarkupString="Auto Splitscreen"
 DataSource.MarkupString="This is a Mission"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.RestartLevelButton UIButton_Scripted]
-CaptionDataSource.MarkupString="Restarti Nivelon"
+CaptionDataSource.MarkupString="Restart Level"
 
 [NetworkMultiplayer_UI:NetRezContainer.ServerListBG.RefreshServerList UIButton_Scripted]
-CaptionDataSource.MarkupString="Aktualigi Liston"
+CaptionDataSource.MarkupString="Refresh List"
 
 [NetworkMultiplayer_UI:NetRezContainer.ServerListBG.back UIButton_Scripted]
-CaptionDataSource.MarkupString="Reen"
+CaptionDataSource.MarkupString="Back"
 
 [PauseMenuUI:PauseMenuRezContainer.pDeletionPanel.pDeletionPopupImageBG.pCancelDeleteButton UIScriptWidget_Button]
-displayString="Ne"
+displayString="No"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.panels.defaultPanel.GammaLabel UILabel]
-DataSource.MarkupString="Gama-korekto"
+DataSource.MarkupString="Gamma"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.UILabel_8 UILabel]
-DataSource.MarkupString="Agordoj"
+DataSource.MarkupString="Options"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.DifficultySectionLabel.DifficultyLabel UILabel]
-DataSource.MarkupString="Facila"
+DataSource.MarkupString="Easy"
 
 [PauseMenuUI:PauseMenuRezContainer.PauseBGPanel.DifficultySectionLabel UILabel]
-DataSource.MarkupString="Malfacileco :"
+DataSource.MarkupString="Difficulty :"
 
 [GlobalHUDUI:NotificationLabel0 UILabel]
 DataSource.MarkupString="This is a test"
@@ -316,14 +315,14 @@ displayString="Start!"
 displayString="Start!"
 
 [MainMenuUI:MainMenuRezContainer.MainMenuPanel.ButtonPanel.theCreditsButton UIButton_Scripted]
-ToolTipString="Rigardi la teamon, kiu kreis la ludon!"
+ToolTipString="See the team who created the game!"
 CaptionDataSource.MarkupString="Credits"
 
 [KillCountUI:WaveLabelContainer.WaveBeginLabel UILabel]
-DataSource.MarkupString="Batala Fazo"
+DataSource.MarkupString="Combat Phase"
 
 [buildTimerUI UI_BuildTimer]
-KillCountString="Sekvaj Malamikoj :"
+KillCountString="Next Enemies :"
 
 [OptionsMenuUI:UIResolutionContainer_0.UIPanel_0.CameraPitchLabel UILabel]
 DataSource.MarkupString="Invert Camera Pitch"

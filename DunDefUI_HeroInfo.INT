@@ -1,52 +1,52 @@
 [Scenes.equipmentInfoUI:EquipmentRezContainer.ItemPanel.EquipmentDataContainer.EquipmentNameLabel UILabel]
-DataSource.MarkupString="Nomo de Ekipaĵo"
+DataSource.MarkupString="Equipment Name"
 
 [Scenes.equipmentInfoUI:HeroRezContainer.EquipmentInfo_CloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [Scenes.heroInfoUI:InventoryRezContainer.theInventoryPanel.InventoryLabel UILabel]
 DataSource.MarkupString="Inventory"
 
 [Overlays.Overlay_EquipmentItem:UIOverlayContainer_Equipment_0.DataContainer.tPanelBG.CurrentEquipmentLabel UILabel]
-DataSource.MarkupString="Nunaj Ekipaĵoj:"
+DataSource.MarkupString="Current Equipment:"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.DropManaButton UIScriptWidget_Button]
-displayString="Faligi Manaon"
+displayString="Drop Mana"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UIScriptWidget_HeroStat_2Copy1 UIScriptWidget_HeroStat]
-MyTooltipString="Testi"
+MyTooltipString="Test"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.ResetLevelUp UIScriptWidget_Button]
 displayString="Reset Level Up"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UIScriptWidget_HeroStat_8 UIScriptWidget_HeroStat]
-MyTooltipString="Testi"
+MyTooltipString="Test"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.CloseButton UIScriptWidget_Button]
-displayString="Fermi"
+displayString="Close"
 
 [Scenes.NameEquipmentPopup:EquipmentEditBoxRezContainer.NameEquipmentPopupBG.theAcceptButton UIScriptWidget_Button]
-displayString="Akcepti"
+displayString="Accept"
 
 [Scenes.NameEquipmentPopup UI_EditboxPopup]
-ConsoleEditBoxPopupDescription="Elektu nomon por via plibonigita objekto!"
-ConsoleEditBoxPopupTitleText="Nomu Vian Ekipaĵon"
+ConsoleEditBoxPopupDescription="Choose a name for your upgraded item!"
+ConsoleEditBoxPopupTitleText="Name Your Equipment"
 
 [Scenes.NameEquipmentPopup_Centered UI_EditboxPopup]
-ConsoleEditBoxPopupDescription="Elektu nomon"
-ConsoleEditBoxPopupTitleText="Nomu Vian Heroon"
+ConsoleEditBoxPopupDescription="Choose a name"
+ConsoleEditBoxPopupTitleText="Name Your Hero"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.EquipmentInfo_BackButton UIScriptWidget_Button]
-displayString="Reen"
+displayString="Back"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.EquipmentInfo_ToItemBoxButton UIScriptWidget_Button]
-displayString="Objektujo"
+displayString="Item Box"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.EquipmentInfo_ToHeroButton UIScriptWidget_Button]
-displayString="Al Heroo"
+displayString="To Hero"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.InvestButton UIScriptWidget_Button]
-displayString="INVESTI"
+displayString="INVEST"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.ForgedByTextLabel UILabel]
 DataSource.MarkupString="Forged By"
@@ -55,7 +55,7 @@ DataSource.MarkupString="Forged By"
 DataSource.MarkupString="Points To Spend"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.EquipmentInfo_DropButton UIScriptWidget_Button]
-displayString="Faligi"
+displayString="Drop"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.InvestingLabel UILabel]
 DataSource.MarkupString="Upgrade"
@@ -85,16 +85,16 @@ DataSource.MarkupString="Upgrade Available"
 DataSource.MarkupString="Hero + Bank"
 
 [Scenes.equipmentInfoUI:HeroRezContainer.EquipmentInfo_DropManaButton UIScriptWidget_Button]
-displayString="Faligi Manaon"
+displayString="Drop Mana"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.LevelUpAppliedLabel UILabel]
 DataSource.MarkupString="Level Up Applied!"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UILabel_2 UILabel]
-DataSource.MarkupString="Heroo"
+DataSource.MarkupString="Hero"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UILabel_1 UILabel]
-DataSource.MarkupString="Turoj"
+DataSource.MarkupString="Towers"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UILabel_3 UILabel]
 DataSource.MarkupString="Resistance"

@@ -2,14 +2,14 @@
 StringVar="Protect the Eternia Crystal, without any Defenses!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DarkElfSpawner.DunDef_SeqVar_TutorialData_0 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="En ĉiu <COLOR: 255, 99, 0>Ondo</COLOR>  vi alfrontos pli altajn nombrojn kaj pli penigajn kontraŭulojn. Estu preta por defendi vian reĝlandon per via propra forteco kaj strategio!"
+PCTutorialDefault.TutorialText="Each <COLOR: 255, 99, 0>Wave</COLOR>  you will face greater numbers and more challenging opponents. Be prepared to defend your kingdom with your own strength and strategy!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_0 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="Pro tio ke vi venkis viajn malamikojn kaj finis <COLOR: 255, 99, 0>Ondojn</COLOR>, vi gajnis sufiĉe da spertpoentoj por <COLOR: 255, 99, 0>Altniveliĝi</COLOR>. Vi nun povas doni kelkajn poentojn al iu ajn el la <COLOR: 255,0,0>Herotrajtoj</COLOR> laŭplaĉe. Vi povas apliki ilin dum la '<COLOR: 70,211,0>Konstrua Fazo</COLOR>' per la <COLOR: 255,0,0>Heroinforma</COLOR> Interfaco @ShowMyHeroInfo@. Elektu saĝe, juna trejnato: vi povas decidi fokusi je unu kampo, aŭ disdoni viajn poentojn al larĝa amplekso da fakoj; la elekto estas via. Apliku viajn Poentojn kaj akceptu la <COLOR: 255, 99, 0>Altniveliĝo</COLOR>!"
-XboxTutorial.TutorialText="Pro tio ke vi venkis viajn malamikojn kaj finis <COLOR: 255, 99, 0>Ondojn</COLOR>, vi gajnis sufiĉe da spertpoentoj por <COLOR: 255, 99, 0>Altniveliĝi</COLOR>. Vi nun povas doni kelkajn poentojn al iu ajn el la <COLOR: 255,0,0>Herotrajtoj</COLOR> laŭplaĉe. Vi povas apliki ilin dum la '<COLOR: 70,211,0>Konstrua Fazo</COLOR>' per la <COLOR: 255,0,0>Heroinforma</COLOR> Interfaco <IMG:Texture2D'GamepadButtons_360.Textures.SelectButton'>. Elektu saĝe, juna trejnato: vi povas decidi fokusi je unu kampo, aŭ disdoni viajn poentojn al larĝa amplekso da fakoj; la elekto estas via. Apliku viajn Poentojn kaj akceptu la <COLOR: 255, 99, 0>Altniveliĝo</COLOR>!"
+PCTutorialDefault.TutorialText="By defeating your enemies and completing <COLOR: 255, 99, 0>Waves</COLOR>, you have earned sufficient experience points to <COLOR: 255, 99, 0>Level Up</COLOR>. You may now choose to apply several points to any of the <COLOR: 255,0,0>Hero Statistics</COLOR> that you desire. These may be applied during the '<COLOR: 70,211,0>Build Phase</COLOR>' through the <COLOR: 255,0,0>Hero Info</COLOR> Interface @ShowMyHeroInfo@. Choose wisely, young trainee: you may opt to specialize in one area, or spread your points over a wide range of disciplines; the choice is yours. Apply your Points and accept the <COLOR: 255, 99, 0>Level Up</COLOR>!"
+XboxTutorial.TutorialText="By defeating your enemies and completing <COLOR: 255, 99, 0>Waves</COLOR>, you have earned sufficient experience points to <COLOR: 255, 99, 0>Level Up</COLOR>. You may now choose to apply several points to any of the <COLOR: 255,0,0>Hero Statistics</COLOR> that you desire. These may be applied during the '<COLOR: 70,211,0>Build Phase</COLOR>' through the <COLOR: 255,0,0>Hero Info</COLOR> Interface <IMG:Texture2D'GamepadButtons_360.Textures.SelectButton'>. Choose wisely, young trainee: you may opt to specialize in one area, or spread your points over a wide range of disciplines; the choice is yours. Apply your Points to accept the <COLOR: 255, 99, 0>Level Up</COLOR>!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_1 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="Bonvenon, kuraĝa Defendanto, al la <COLOR: 255, 99, 0>Karceroj de Eterio</COLOR>!"
+PCTutorialDefault.TutorialText="Welcome, brave Defender, to the <COLOR: 255, 99, 0>Dungeons of Etheria</COLOR>!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_10 DunDef_SeqVar_TutorialData]
 PCTutorialDefault.TutorialText="Excellent. Now Select a <COLOR: 255,255,255>Defense</COLOR> to Summon. Because you are yet an inexperienced hero-in-training, you can only build a single <COLOR: 255,255,255>Defense</COLOR>. Select that <COLOR: 255,255,255>Defense</COLOR> with the Mouse as you did before, and then click it to activate it. Move it with the [Mouse], and then click to confirm."
@@ -20,11 +20,11 @@ PCTutorialDefault.TutorialText="Now that you have activated the <COLOR: 0, 45, 1
 XboxTutorial.TutorialText="Now that you have activated the <COLOR: 0, 45, 173>Summon Ability</COLOR>, you must decide where to place your <COLOR: 255,255,255>Defense</COLOR>. Move it with the <IMG:Texture2D'GamepadButtons_360.Textures.L_biDirectional_Analog'>, and then press <IMG:Texture2D'GamepadButtons_360.Textures.R_02'> or <IMG:Texture2D'GamepadButtons_360.Textures.bottomButton'> to confirm. You may only place your <COLOR: 255,255,255>Defense</COLOR> within a radius around yourself, and <COLOR: 255,255,255>Defenses</COLOR> generally need enough free area to be summoned to a location. Go ahead, <COLOR: 0, 45, 173>Summon</COLOR> your <COLOR: 255,255,255>Defense</COLOR> to a valid location now!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_12 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="Once your <COLOR: 255,255,255>Defense</COLOR> is summoned, you may then place more <COLOR: 255,255,255>Defenses</COLOR> during this '<COLOR: 70,211,0>Konstrua Fazo</COLOR>.' Summoning <COLOR: 255,255,255>Defenses</COLOR> consumes <COLOR: 0,79,224>Mana Power</COLOR>, which is the magical resource used for all of your <COLOR:252,139,19>Hero Abilities</COLOR> and to upgrade your equipment. Once you are ready to face your enemies, head to the <COLOR: 200, 10, 255>Eternia Crystal</COLOR> and activate it with @CheckActivation@ in order to proceed to the '<color: 226,0,0>Batala Fazo</COLOR>.'"
-XboxTutorial.TutorialText="Once your <COLOR: 255,255,255>Defense</COLOR> is summoned, you may then place more <COLOR: 255,255,255>Defenses</COLOR> during this '<COLOR: 70,211,0>Konstrua Fazo</COLOR>.' Summoning <COLOR: 255,255,255>Defenses</COLOR> consumes <COLOR: 0,79,224>Mana Power</COLOR>, which is the magical resource used for all of your <COLOR:252,139,19>Hero Abilities</COLOR> and to upgrade your equipment. Once you are ready to face your enemies, head to the <COLOR: 200, 10, 255>Eternia Crystal</COLOR> and activate it with <IMG:Texture2D'GamepadButtons_360.Textures.leftButton'> in order to proceed to the '<color: 226,0,0>Batala Fazo</COLOR>.'"
+PCTutorialDefault.TutorialText="Once your <COLOR: 255,255,255>Defense</COLOR> is summoned, you may then place more <COLOR: 255,255,255>Defenses</COLOR> during this '<COLOR: 70,211,0>Build Phase</COLOR>.' Summoning <COLOR: 255,255,255>Defenses</COLOR> consumes <COLOR: 0,79,224>Mana Power</COLOR>, which is the magical resource used for all of your <COLOR:252,139,19>Hero Abilities</COLOR> and to upgrade your equipment. Once you are ready to face your enemies, head to the <COLOR: 200, 10, 255>Eternia Crystal</COLOR> and activate it with @CheckActivation@ in order to proceed to the '<color: 226,0,0>Combat Phase</COLOR>.'"
+XboxTutorial.TutorialText="Once your <COLOR: 255,255,255>Defense</COLOR> is summoned, you may then place more <COLOR: 255,255,255>Defenses</COLOR> during this '<COLOR: 70,211,0>Build Phase</COLOR>.' Summoning <COLOR: 255,255,255>Defenses</COLOR> consumes <COLOR: 0,79,224>Mana Power</COLOR>, which is the magical resource used for all of your <COLOR:252,139,19>Hero Abilities</COLOR> and to upgrade your equipment. Once you are ready to face your enemies, head to the <COLOR: 200, 10, 255>Eternia Crystal</COLOR> and activate it with <IMG:Texture2D'GamepadButtons_360.Textures.leftButton'> in order to proceed to the '<color: 226,0,0>Combat Phase</COLOR>.'"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_13 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="Notice the indicator in front of each '<COLOR: 0,0,0>Monstra Pordo</COLOR>' displaying the number and types of enemies that will be advancing from that location. Use this information to better plan your defensive strategy."
+PCTutorialDefault.TutorialText="Notice the indicator in front of each '<COLOR: 0,0,0>Creep Door</COLOR>' displaying the number and types of enemies that will be advancing from that location. Use this information to better plan your defensive strategy."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_14 DunDef_SeqVar_TutorialData]
 PCTutorialDefault.TutorialText="When you do not have any more <COLOR: 0,79,224>Mana Power</COLOR>, you should proceed to face your enemies by heading to the <COLOR: 200, 10, 255>Eternia Crystal</COLOR> and activating it with @CheckActivation@. Go ahead, do this now."
@@ -70,20 +70,20 @@ PCTutorialDefault.TutorialText="Here's one now: a <COLOR: 0,173,12>Goblin</COLOR
 PCTutorialDefault.TutorialText="Watch your <COLOR: 255,255,255>Defenses</COLOR> annihilate this foul critter, or go forth and slay it yourself. Do NOT let it reach the <COLOR: 200, 10, 255>Eternia Crystal</COLOR>!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_27 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="At the <COLOR: 0,211,184>Forge</COLOR>, you can '<COLOR: 0,79,224>Invest Mana</COLOR>' in Equipment, enabling you to <COLOR: 255, 99, 0>Level Up</COLOR> the item for increased power. You can also <COLOR: 255,0,0>Swap Heroes</COLOR> at the <COLOR: 0,211,184>Forge</COLOR>, which will allow you to gain the benefits of each <COLOR: 255,0,0>Hero</COLOR> class' <COLOR: 255,255,255>Defenses</COLOR>. The <COLOR: 0,211,184>Forge</COLOR> may only be accessed during the '<COLOR: 70,211,0>Konstrua Fazo</COLOR>,' so be sure to plan ahead!"
+PCTutorialDefault.TutorialText="At the <COLOR: 0,211,184>Forge</COLOR>, you can '<COLOR: 0,79,224>Invest Mana</COLOR>' in Equipment, enabling you to <COLOR: 255, 99, 0>Level Up</COLOR> the item for increased power. You can also <COLOR: 255,0,0>Swap Heroes</COLOR> at the <COLOR: 0,211,184>Forge</COLOR>, which will allow you to gain the benefits of each <COLOR: 255,0,0>Hero</COLOR> class' <COLOR: 255,255,255>Defenses</COLOR>. The <COLOR: 0,211,184>Forge</COLOR> may only be accessed during the '<COLOR: 70,211,0>Build Phase</COLOR>,' so be sure to plan ahead!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_28 DunDef_SeqVar_TutorialData]
 PCTutorialDefault.TutorialText="Remember well what I have taught you, but if you need my help again, you may reset this training session from the <COLOR: 0,18,255>Options Menu</COLOR>."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_29 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="By default, the camera will zoom in during the '<color: 226,0,0>Batala Fazo</COLOR>.' If you wish to return to the overhead camera, simply use the @ZoomCameraOut@. You can also change this setting via the <COLOR: 0,18,255>Options Menu</COLOR>."
-XboxTutorial.TutorialText="By default, the camera will zoom in during the '<color: 226,0,0>Batala Fazo</COLOR>.' If you wish to return to the overhead camera, simply press the <IMG:Texture2D'GamepadButtons_360.Textures.R_Down_Analog'> button. You can also change this setting via the <COLOR: 0,18,255>Options Menu</COLOR>."
+PCTutorialDefault.TutorialText="By default, the camera will zoom in during the '<color: 226,0,0>Combat Phase</COLOR>.' If you wish to return to the overhead camera, simply use the @ZoomCameraOut@. You can also change this setting via the <COLOR: 0,18,255>Options Menu</COLOR>."
+XboxTutorial.TutorialText="By default, the camera will zoom in during the '<color: 226,0,0>Combat Phase</COLOR>.' If you wish to return to the overhead camera, simply press the <IMG:Texture2D'GamepadButtons_360.Textures.R_Down_Analog'> button. You can also change this setting via the <COLOR: 0,18,255>Options Menu</COLOR>."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_3 DunDef_SeqVar_TutorialData]
 PCTutorialDefault.TutorialText="I will attempt to teach you the basic arts of <COLOR: 255, 99, 0>Dungeon Defense</COLOR>. Heed my words well, for your life - nay, the fate of all <COLOR: 200, 10, 255>Etheria</COLOR> may depend on it!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_30 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="Once you have entered the '<color: 226,0,0>Batala Fazo</COLOR>,' the '<COLOR: 0,0,0>Creep Doors</COLOR>' will open and enemies will seek out your <COLOR: 200, 10, 255>Eternia Crystals</COLOR>!"
+PCTutorialDefault.TutorialText="Once you have entered the '<color: 226,0,0>Combat Phase</COLOR>,' the '<COLOR: 0,0,0>Creep Doors</COLOR>' will open and enemies will seek out your <COLOR: 200, 10, 255>Eternia Crystals</COLOR>!"
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_31 DunDef_SeqVar_TutorialData]
 PCTutorialDefault.TutorialText="A <COLOR:89,0,151>Dark Elf Archer</COLOR> has arrived! These arrow-shooting enemies can be particularly dangerous to your vulnerable <COLOR: 255,255,255>Defenses</COLOR>, and should be hunted down."
@@ -158,25 +158,25 @@ XboxTutorial.TutorialText="Good, now use the <IMG:Texture2D'GamePadButtons_360.T
 PCTutorialDefault.TutorialText="More fiends are arriving! They can not be harmed within the <COLOR:89,0,151>Dark Energy</COLOR> around the <COLOR: 0,0,0>Creep Doors</COLOR> so only attack them once they become vulnerable. Steel yourself, little warrior, and defeat these creatures!"
 
 [TheWorld:PersistentLevel.WorldInfo_3.DunDefMapInfo_0 DunDefMapInfo]
-DefaultMissionObjectiveText="Defendu la Eternian Kristalon!"
+DefaultMissionObjectiveText="Defend the Eternia Crystal!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_7 DunDef_SeqVar_LocalizedString]
-StringVar="Lasta Ondo!"
+StringVar="Final Wave!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_5 DunDef_SeqVar_LocalizedString]
-StringVar="Al la Sekva Nivelo"
+StringVar="Proceeding To Next Level"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_4 DunDef_SeqVar_LocalizedString]
-StringVar="Aktivigu Kristalon por Pluiri"
+StringVar="Activate Crystal To Proceed"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_3 DunDef_SeqVar_LocalizedString]
-StringVar="Venko de la Nivelo"
+StringVar="Level Victory"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_8 DunDef_SeqVar_LocalizedString]
-StringVar="Ondo kun Estro!"
+StringVar="Boss Wave!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_9 DunDef_SeqVar_LocalizedString]
-StringVar="Atentu pri la Vivernoj!"
+StringVar="Beware the Wyverns!"
 
 [TheWorld:PersistentLevel.Main_Sequence.DunDef_SeqVar_LocalizedString_0 DunDef_SeqVar_LocalizedString]
-StringVar="Ogro Alvenis"
+StringVar="An Ogre Has Arrived"
