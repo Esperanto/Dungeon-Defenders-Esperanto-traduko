@@ -71,3 +71,9 @@ LobbyLevel
 Subtitles
 UDKGame
 UDKGame_Mobile
+
+
+_______________________________
+
+
+je 2017-07-24 mi ŝanĝis la enkodigon de 45 dosieroj al UTC-8, por ke la ŝanĝoj estu pli facile kontroleblaj en GitHub. Ni kontrolu poste ĉu tio kaŭzas problemojn en la ludo, se ni uzos tiun malsaman enkodigon. Se ne, je la fino ni konvertu al la antaŭa enkodigo.
