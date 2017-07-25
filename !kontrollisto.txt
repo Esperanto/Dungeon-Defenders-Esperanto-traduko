@@ -15,6 +15,7 @@ DD_Oasis
 DD_TheRamparts
 DD_TheSpires
 DjinnArchetypes
+DunDefAuras
 DunDefDragonBoss
 GenieBossArchetypes
 KrakenArchetypes
@@ -34,6 +35,7 @@ DD_Forest1
 DD_Lev_04
 DD_RoyalGardens
 DD_ThroneRoom
+DunDefArchetypes
 Event_Xmas
 InAppPurchasingContent
 TestMap_DD_Shell_04
@@ -44,9 +46,7 @@ TestMap_DD_Shell_04
 ===============================
 DD_Entryway_03
 DD_Lev_02
-DunDefArchetypes
 DunDefAtlantis
-DunDefAuras
 DunDefEquipment
 DunDefEquipment_DLC
 DunDefEquipment_DLC_Special_Apprentice

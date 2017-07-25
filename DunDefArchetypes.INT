@@ -1,65 +1,65 @@
 [DunDefTower_Harpoon_Arch DunDefTower_Harpoon]
-DescriptiveName="Harpoon Turret"
+DescriptiveName="Harpun-Tureto"
 
 [DunDefTower_InfernoTrap_Arch DunDefTower_ProxMineTrap]
-DescriptiveName="Inferno Trap"
+DescriptiveName="Fajrega Insidaĵo"
 
 [DunDefTower_GasTrap_Arch DunDefTower_GasTrap]
-DescriptiveName="Gas Trap"
+DescriptiveName="Gas-Insidaĵo"
 
 [DunDefTower_Blockade_Arch_bak DunDefTower_Blockade]
-DescriptiveName="Blockade"
+DescriptiveName="Barilo"
 
 [DunDefTower_SpikyBlockade_Arch DunDefTower_SpikyBlockade]
-DescriptiveName="Spike Blockade"
+DescriptiveName="Pik-Barilo"
 
 [DunDefTower_Fireball_Arch DunDefTower_Fireball]
-DescriptiveName="Fireball Tower"
+DescriptiveName="Fajrobula Turo"
 
 [DunDefTower_Blockade_Arch DunDefTower_Blockade]
-DescriptiveName="Magic Blockade"
+DescriptiveName="Magia Barilo"
 
 [DunDefTower_DeadlyStriker_Arch DunDefTower_DeadlyStriker]
-DescriptiveName="Deadly Striker Tower"
+!!DescriptiveName="Deadly Striker Turo"
 
 [DunDefTower_ProxMine_Arch DunDefTower_ProxMineTrap]
-DescriptiveName="Proximity Mine Trap"
+!!DescriptiveName="Proximity Mine Insidaĵo"
 
 [EnemyWyvern DunDefWyvern]
 DescriptiveName="Viverno"
 
 [DunDefCrystalCoreArch DunDefCrystalCore]
-DescriptiveName="Eternia Crystal"
+DescriptiveName="Eternia Kristalo"
 
 [DunDefTower_ChainLightning_Arch DunDefTower_ChainLightning]
-DescriptiveName="Lightning Tower"
+DescriptiveName="Fulmoturo"
 
 [DunDefTower_SliceNDice_Arch DunDefTower_SliceNDice]
-DescriptiveName="Slice N Dice Blockade"
+DescriptiveName="Haktranĉa Barilo"
 
 [DunDefTower_MagicMissile_Arch DunDefTower_MagicMissile]
-DescriptiveName="Magic Missile Tower"
+DescriptiveName="Magimisila Turo"
 
 [BossGoblinMech DunDefGoblinMech]
-DescriptiveName="Goblin Mech"
+!!DescriptiveName="Goblina Mech"
 
 [DunDefTower_DarknessTrap_Arch DunDefTower_ProxMineTrap]
-DescriptiveName="Darkness Trap"
+DescriptiveName="Malluma Insidaĵo"
 
 [EnemyDarkElfMage DunDefDarkElfMage]
-DescriptiveName="Dark Elf Mage"
+DescriptiveName="Mallumelfa Sorĉisto"
 
 [DunDefTower_EtherealSpikeTrap_Arch DunDefTower_ProxMineTrap]
-DescriptiveName="Ethereal Spike Trap"
+!!DescriptiveName="Ethereal Spike Insidaĵo"
 
 [EnemyKobold_ImmediatelyKamikaze DunDefKobold]
-DescriptiveName="Crazy Kobold"
+DescriptiveName="Freneza Koboldo"
 
 [DunDefTower_BouncyBlockade_Arch DunDefTower_BouncyBlockade]
-DescriptiveName="Bouncer Blockade"
+!!DescriptiveName="Bouncer Barilo"
 
 [DunDefTower_BowlingBall_Arch DunDefTower_BowlingBall]
-DescriptiveName="Bowling Ball Turret"
+DescriptiveName="Bovlingpilka Tureto"
 
 [ForgeLobbyLevel_SecretStash DunDefForge]
-LeaderboardStringTest="Secret Stash"
+!!LeaderboardStringTest="Secret Stash"

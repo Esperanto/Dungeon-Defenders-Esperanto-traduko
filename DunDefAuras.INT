@@ -1,14 +1,14 @@
 [Aura_DeathyHallows DunDefTower_AuraDeathlyHallows]
-DescriptiveName="Electric Aura"
+DescriptiveName="Elektra Aŭro"
 
 [Aura_StickyGloop DunDefTower_AuraStickyGloop]
-DescriptiveName="Ensnare Aura"
+DescriptiveName="Implika Aŭro"
 
 [Aura_Enrage DunDefTower_AuraEnrage]
-DescriptiveName="Enrage Aura"
+DescriptiveName="Furioziga Aŭro"
 
 [Aura_Heal DunDefTower_AuraHeal]
-DescriptiveName="Healing Aura"
+DescriptiveName="Kuraca Aŭro"
 
 [Aura_StrengthDrain DunDefTower_AuraStrengthDrain]
-DescriptiveName="Strength Drain Aura"
+DescriptiveName="Fortelsuĉa Aŭro"

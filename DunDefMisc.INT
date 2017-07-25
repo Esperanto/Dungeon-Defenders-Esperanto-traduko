@@ -14,7 +14,7 @@ CaptionDataSource.MarkupString="Ŝanĝi"
 CaptionDataSource.MarkupString="Ŝanĝi"
 
 [GlobalHUDUI:WavePanelRezContainer.GameplayPanel.CombatPhaseLabel UILabel]
-DataSource.MarkupString="COMBAT"
+DataSource.MarkupString="BATALO"
 
 [CharacterSelectUI:SelectPlayersRezContainer.Main.Defender1.PlayerName1 UILabel]
 DataSource.MarkupString="Premu START"
