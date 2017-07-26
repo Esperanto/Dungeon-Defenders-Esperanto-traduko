@@ -116,7 +116,7 @@ DataSource.MarkupString="KONSTRUADO"
 DataSource.MarkupString="Estro"
 
 [buildTimerUI:BuildPRezContainer.BuildPanelBG.KillCountTitle UILabel]
-DataSource.MarkupString="Next Enemies : 9"
+DataSource.MarkupString="Venontaj Malamikoj : 9"
 
 [PlayerHUDUI:UIResolutionContainer_0.MainStatusPanel.ExpBarLabel UILabel]
 DataSource.MarkupString="Sperto"
