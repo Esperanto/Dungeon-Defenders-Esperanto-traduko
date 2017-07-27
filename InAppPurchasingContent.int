@@ -5,7 +5,7 @@ DataSource.MarkupString="Drinkeja Vendejo"
 displayString="Heroinformoj"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.fItemBoxButton UIScriptWidget_Button]
-displayString="Objektbanko"
+displayString="Objektujo"
 
 [UI_Shop_0:UIResolutionContainer_0.MainPanel.ForgeBG.ForgeCloseButton UIScriptWidget_Button]
 displayString="Fermi"
