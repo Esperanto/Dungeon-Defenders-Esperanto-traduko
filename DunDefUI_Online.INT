@@ -83,7 +83,7 @@ DataSource.MarkupString="<Strings:UDKGame.GameSpyMessages.SaveLoginInfo>"
 CaptionDataSource.MarkupString="Custom Match"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.imgCampaignLevelsBg.lblCampaignLevels UILabel]
-DataSource.MarkupString="Campaign"
+DataSource.MarkupString="Kampanjo"
 
 [searchFilters:UIResolutionContainer_0.SearchFiltersBG.imgChallengeLevelBg.lblChallengeLevels UILabel]
 DataSource.MarkupString="Challenges"

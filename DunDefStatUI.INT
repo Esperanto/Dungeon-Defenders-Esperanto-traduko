@@ -25,33 +25,33 @@ nameTextures[7]=(LocalizedName="Skeleto")
 nameTextures[8]=(LocalizedName="Viverno")
 nameTextures[9]=(LocalizedName="Demono")
 nameTextures[10]=(LocalizedName="Antikva Drako")
-nameTextures[11]=(LocalizedName="Goblin Mech")
-nameTextures[12]=(LocalizedName="Magic Blockade")
-nameTextures[13]=(LocalizedName="Bouncer Blockade")
-nameTextures[14]=(LocalizedName="Bowling Ball Turret")
-nameTextures[15]=(LocalizedName="Lightning Tower")
-nameTextures[16]=(LocalizedName="Darkness Trap")
-nameTextures[17]=(LocalizedName="Deadly Striker Tower")
-nameTextures[18]=(LocalizedName="Ethereal Spike Trap")
-nameTextures[19]=(LocalizedName="Fireball Tower")
-nameTextures[20]=(LocalizedName="Gas Trap")
-nameTextures[21]=(LocalizedName="Harpoon Turret")
-nameTextures[22]=(LocalizedName="Inferno Trap")
-nameTextures[23]=(LocalizedName="Magic Missile Tower")
-nameTextures[24]=(LocalizedName="Proximity Mine Trap")
-nameTextures[25]=(LocalizedName="Slice N Dice Blockade")
-nameTextures[26]=(LocalizedName="Spike Blockade")
-nameTextures[27]=(LocalizedName="Deathly Hallows Aura")
-nameTextures[28]=(LocalizedName="Enrage Aura")
-nameTextures[29]=(LocalizedName="Healing Aura")
-nameTextures[30]=(LocalizedName="Ensnare Aura")
-nameTextures[31]=(LocalizedName="Strength Drain Aura")
+!!nameTextures[11]=(LocalizedName="Goblina !Mech!")
+nameTextures[12]=(LocalizedName="Magia Barilo")
+!!nameTextures[13]=(LocalizedName="!Bouncer! Barilo")
+nameTextures[14]=(LocalizedName="Bovlingpilka Tureto")
+nameTextures[15]=(LocalizedName="Fulmoturo")
+nameTextures[16]=(LocalizedName="Malluma Insidaĵo")
+!!nameTextures[17]=(LocalizedName="!Deadly Striker! Turo")
+!!nameTextures[18]=(LocalizedName="!Ethereal Spike! Insidaĵo")
+nameTextures[19]=(LocalizedName="Fajrobula Turo")
+nameTextures[20]=(LocalizedName="Gas-Insidaĵo")
+nameTextures[21]=(LocalizedName="Harpun-Tureto")
+nameTextures[22]=(LocalizedName="Fajrega Insidaĵo")
+nameTextures[23]=(LocalizedName="Magimisila Turo")
+!!nameTextures[24]=(LocalizedName="!Proximity Mine! Insidaĵo")
+nameTextures[25]=(LocalizedName="Haktranĉa Barilo")
+nameTextures[26]=(LocalizedName="Pik-Barilo")
+!!nameTextures[27]=(LocalizedName="!Deathly Hallows! Aŭro")
+nameTextures[28]=(LocalizedName="Furioziga Aŭro")
+nameTextures[29]=(LocalizedName="Kuraca Aŭro")
+nameTextures[30]=(LocalizedName="Implika Aŭro")
+nameTextures[31]=(LocalizedName="Fortelsuĉa Aŭro")
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.ResizeAll.BG_Panel_Left.NormalToggle UIScriptWidget_ToggleButton]
-displayString="Campaign"
+displayString="Kampanjo"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.ResizeAll.BG_Panel_Left.SpecialToggle UIScriptWidget_ToggleButton]
-displayString="Challenges"
+displayString="Defioj"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.theNextButton UIScriptWidget_Button]
 displayString="Sekv."
@@ -72,10 +72,10 @@ displayString="Hard"
 displayString="Awards"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.UIPanel_Leaderboard_0.UILabel_0 UILabel]
-DataSource.MarkupString="Leaderboard"
+DataSource.MarkupString="Poentaro"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.WavesPanel.WaveBG.waveTitle UILabel]
-DataSource.MarkupString="Wave #3"
+DataSource.MarkupString="Ondo #3"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.ResizeAll.UIPanel_1.statsPanel.TreasureButton UIScriptWidget_ToggleButton]
 displayString="Insane"
@@ -84,7 +84,7 @@ displayString="Insane"
 displayString="Fermi"
 
 [LeaderboardPrefab:UIPanel_Leaderboard_Arc_0.gameModePanel.UILabel_0 UILabel]
-DataSource.MarkupString="Game Mode:"
+DataSource.MarkupString="Ludreĝimo:"
 
 [LeaderboardPrefab:UIPanel_Leaderboard_Arc_0.UILabel_2 UILabel]
 DataSource.MarkupString="View Mode:"
@@ -96,22 +96,22 @@ DataSource.MarkupString="Game Over:"
 CaptionDataSource.MarkupString="Malamikoj"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.Heroes UIToggleButton]
-CaptionDataSource.MarkupString="Heroes"
+CaptionDataSource.MarkupString="Herooj"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.leaderboard UIToggleButton]
-CaptionDataSource.MarkupString="Leaderboard"
+CaptionDataSource.MarkupString="Poentaro"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.Towers UIToggleButton]
-CaptionDataSource.MarkupString="Towers"
+CaptionDataSource.MarkupString="Turoj"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.Overview UIToggleButton]
-CaptionDataSource.MarkupString="Overview"
+CaptionDataSource.MarkupString="Superrigardo"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsBar.Waves UIToggleButton]
-CaptionDataSource.MarkupString="Waves"
+CaptionDataSource.MarkupString="Ondoj"
 
 [LeaderboardPrefab:UIPanel_Leaderboard_Arc_0.UILabel_0 UILabel]
-DataSource.MarkupString="Leaderboard"
+DataSource.MarkupString="Poentaro"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.statInfoPanel.TabsMain.TabsPanels.UIPanel_Leaderboard_0.nextMode UIButton_Scripted]
 CaptionDataSource.MarkupString="Sekv."
@@ -144,10 +144,10 @@ DataSource.MarkupString="Enemy Count"
 DataSource.MarkupString="Enemy Count"
 
 [UI.GameStatsUI:StatRezContainer.StatPanel.DifficultySectionLabel UILabel]
-DataSource.MarkupString="Difficulty :"
+DataSource.MarkupString="Malfacileco :"
 
 [UI.PlayerStats_UI:PlayerStatsRezContainer.BGImage.ResizeAll.UIPanel_1.ModePanel.AchievementButton UIScriptWidget_ToggleButton]
-displayString="Accomplishments"
+displayString="Atingaĵoj"
 
 [UI.GameStatsUI:StatRezContainer.gDeletionPanel.pDeletionPopupImageBG.gConfirmDeleteButton UIScriptWidget_Button]
 displayString="Jes"

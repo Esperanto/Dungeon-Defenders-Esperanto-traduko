@@ -36,6 +36,8 @@ DD_Lev_04
 DD_RoyalGardens
 DD_ThroneRoom
 DunDefArchetypes
+DunDefUI
+DunDefUI_HeroInfo
 Event_Xmas
 InAppPurchasingContent
 TestMap_DD_Shell_04
@@ -61,8 +63,6 @@ DunDefPlayers
 DunDefSpecial
 DunDefStatUI
 DunDefTutorials
-DunDefUI
-DunDefUI_HeroInfo
 DunDefUI_Online
 DunDefUI_Tutorials
 Engine

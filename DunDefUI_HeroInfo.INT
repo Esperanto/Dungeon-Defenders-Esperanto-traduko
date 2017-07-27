@@ -5,7 +5,7 @@ DataSource.MarkupString="Nomo de Ekipaĵo"
 displayString="Fermi"
 
 [Scenes.heroInfoUI:InventoryRezContainer.theInventoryPanel.InventoryLabel UILabel]
-DataSource.MarkupString="Inventory"
+DataSource.MarkupString="Inventaro"
 
 [Overlays.Overlay_EquipmentItem:UIOverlayContainer_Equipment_0.DataContainer.tPanelBG.CurrentEquipmentLabel UILabel]
 DataSource.MarkupString="Nunaj Ekipaĵoj:"
@@ -17,7 +17,7 @@ displayString="Faligi Manaon"
 MyTooltipString="Testi"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.ResetLevelUp UIScriptWidget_Button]
-displayString="Reset Level Up"
+!!displayString="Reset Level Up"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UIScriptWidget_HeroStat_8 UIScriptWidget_HeroStat]
 MyTooltipString="Testi"
@@ -49,46 +49,46 @@ displayString="Al Heroo"
 displayString="INVESTI"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.ForgedByTextLabel UILabel]
-DataSource.MarkupString="Forged By"
+DataSource.MarkupString="Forĝita de"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.PointsToSpendPanel UILabel]
-DataSource.MarkupString="Points To Spend"
+DataSource.MarkupString="Elspezeblaj Poentoj"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.EquipmentInfo_DropButton UIScriptWidget_Button]
 displayString="Faligi"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.InvestingLabel UILabel]
-DataSource.MarkupString="Upgrade"
+DataSource.MarkupString="Plibonigi"
 
 [Scenes.NameEquipmentPopup:EquipmentEditBoxRezContainer.NameEquipmentPopupBG.TopLabel UILabel]
-DataSource.MarkupString="Rename your"
+??DataSource.MarkupString="Donu novan nomon al via"
 
 [Scenes.NameEquipmentPopup_Centered:EquipmentEditBoxRezContainer.NameEquipmentPopupBG.TopLabel UILabel]
-DataSource.MarkupString="Rename your"
+??DataSource.MarkupString="Donu novan nomon al via"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.UILabel_5 UILabel]
-DataSource.MarkupString="Next Level"
+DataSource.MarkupString="Sekva Nivelo"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.LeveledUpLabel UILabel]
-DataSource.MarkupString="Leveled Up!"
+!!DataSource.MarkupString="Leveled Up!"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.MaxUpgradeLabel UILabel]
-DataSource.MarkupString="Maximum Upgrade!"
+!!DataSource.MarkupString="Maximum Upgrade!"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.UpgradeInForgeLabel UILabel]
-DataSource.MarkupString="Upgrade\n In Forge"
+!!DataSource.MarkupString="Upgrade\n In Forge"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.UpgradeAvailableLabel UILabel]
-DataSource.MarkupString="Upgrade Available"
+DataSource.MarkupString="Pliboniĝo Haveblas"
 
 [Scenes.equipmentInfoUI:EquipmentRezContainer.InternalPanel.ItemPanel.EquipmentDataContainer.UpgradePanel.UILabel_7 UILabel]
-DataSource.MarkupString="Hero + Bank"
+DataSource.MarkupString="Heroo + Banko"
 
 [Scenes.equipmentInfoUI:HeroRezContainer.EquipmentInfo_DropManaButton UIScriptWidget_Button]
 displayString="Faligi Manaon"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.LevelUpAppliedLabel UILabel]
-DataSource.MarkupString="Level Up Applied!"
+DataSource.MarkupString="Altniveliĝo Aplikiĝis!"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UILabel_2 UILabel]
 DataSource.MarkupString="Heroo"
@@ -97,13 +97,13 @@ DataSource.MarkupString="Heroo"
 DataSource.MarkupString="Turoj"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UILabel_3 UILabel]
-DataSource.MarkupString="Resistance"
+!!DataSource.MarkupString="Resistance"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.UILabel_0Copy1Copy1 UILabel]
-DataSource.MarkupString="Abilities"
+DataSource.MarkupString="Kapabloj"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.LevelUpAvailableLabel UILabel]
-DataSource.MarkupString="Level Up Available!"
+DataSource.MarkupString="Altniveliĝo Haveblas!"
 
 [Scenes.heroInfoUI:HeroInfoRezContainer.HeroPanel.LevelUpInBuildPhaseLabel UILabel]
-DataSource.MarkupString="Level Up In Build Phase!"
+DataSource.MarkupString="Altniveliĝu Dum Konstrua Fazo!"
