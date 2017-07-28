@@ -38,6 +38,7 @@ DD_ThroneRoom
 DunDefArchetypes
 DunDefUI
 DunDefUI_HeroInfo
+Engine
 Event_Xmas
 InAppPurchasingContent
 TestMap_DD_Shell_04
@@ -65,7 +66,6 @@ DunDefStatUI
 DunDefTutorials
 DunDefUI_Online
 DunDefUI_Tutorials
-Engine
 FamGuardians
 LobbyLevel
 Subtitles

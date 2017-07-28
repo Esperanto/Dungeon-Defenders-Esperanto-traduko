@@ -1,43 +1,43 @@
 [General]
-NumericDelimiter=","
-DecimalPoint="."
+NumericDelimiter=" "
+DecimalPoint=","
 
 [StartupStereoscopicCheck]
-StartupString="Stereoscopic 3D Mode was detected. Would you like to activate it?"
+??StartupString="Stereoskopia 3D-reĝimo estis trovita. Ĉu vi volas aktivigi ĝin?"
 
 [Errors]
-FailedToLoadLevel="Failed to load level"
-HostLeft_Title="Host Left"
-HostLeft="The host left the game"
-KickedMsg_Title="You were kicked"
-SignInTitle="Please sign in"
-SignInMsg360="This feature requires being signed into Xbox LIVE."
-SignInMsgPS3="This feature requires being signed into PSN and GameSpy access.\n If you are signed into PSN, there may be a communication issue with GameSpy."
+FailedToLoadLevel="Malsukcesis ŝargi la nivelon"
+HostLeft_Title="Gastigo Foriris"
+HostLeft="La gastigo forlasis la ludon"
+KickedMsg_Title="Vi estis forpelita"
+SignInTitle="Bonvolu ensaluti"
+SignInMsg360="Ĉi tiu funkcio postulas, ke vi ensalutu en Xbox LIVE."
+??SignInMsgPS3="Ĉi tiu funkcio postulas, ke vi ensalutu en PSN kaj havu aliron al GameSpy.\n Se vi estas ensalutinta en PSN, eble estas komunikoproblemo pri GameSpy."
 
 [AccessControl]
-SessionBanned="You have been banned from the current game session."
+??SessionBanned="Vi estis forpelita el la nuna ludoseanco."
 
 [OnlineGameSettings]
-NumPublicConnections.FriendlyName=Max Public Slots
-NumPrivateConnections.FriendlyName=Max Private Slots
-NumOpenPublicConnections.FriendlyName=Open Slots
-NumOpenPrivateConnections.FriendlyName=Open Private Slots
-bShouldAdvertise.FriendlyName=Advertise
-bIsLanMatch.FriendlyName=LAN Match
-bAllowJoinInProgress.FriendlyName=Join In Progress Allowed
-bAllowInvites.FriendlyName=Invites Allowed
+??NumPublicConnections.FriendlyName=Maksimumo de Publikaj Spacoj
+??NumPrivateConnections.FriendlyName=Maksimumo de Privataj Spacoj
+??NumOpenPublicConnections.FriendlyName=Disponeblaj Spacoj
+??NumOpenPrivateConnections.FriendlyName=Disponeblaj Privataj Spacoj
+??bShouldAdvertise.FriendlyName=Reklami
+??bIsLanMatch.FriendlyName=Loka-Retomatĉo
+??bAllowJoinInProgress.FriendlyName=Aliĝi dum Ludado Permesate
+??bAllowInvites.FriendlyName=Invitoj Permesataj
 PingInMs.FriendlyName=
-OwningPlayerName.FriendlyName=Server Name
+OwningPlayerName.FriendlyName=Servilonomo
 
 [WorldInfo]
-Title="Dungeon Defenders - The Summit"
+??Title="Dungeon Defenders - The Summit"
 
 [UIDataStore_OnlineStats]
 PlayerNickData.PlayerNickColumnName="Ludanto"
-RankNameMetaData.RankColumnName="Rank"
+RankNameMetaData.RankColumnName="Rango"
 
 [UIList]
 DataSource.MarkupString="<Leaderboards:StatsReadResults>"
 
 [GameMessage]
-MaxedOutMessage="There were not enough open slots available in the game session."
+??MaxedOutMessage="Ne estis sufiĉe da disponeblaj spacoj en la ludoseanco."
