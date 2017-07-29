@@ -7,9 +7,9 @@ DecimalPoint=","
 
 [Errors]
 FailedToLoadLevel="Malsukcesis ŝargi la nivelon"
-HostLeft_Title="Gastigo Foriris"
-HostLeft="La gastigo forlasis la ludon"
-KickedMsg_Title="Vi estis forpelita"
+HostLeft_Title="Gastiganto Foriris"
+HostLeft="La gastiganto forlasis la ludon"
+KickedMsg_Title="Vi estas forpelita"
 SignInTitle="Bonvolu ensaluti"
 SignInMsg360="Ĉi tiu funkcio postulas, ke vi ensalutu en Xbox LIVE."
 ??SignInMsgPS3="Ĉi tiu funkcio postulas, ke vi ensalutu en PSN kaj havu aliron al GameSpy.\n Se vi estas ensalutinta en PSN, eble estas komunikoproblemo pri GameSpy."
