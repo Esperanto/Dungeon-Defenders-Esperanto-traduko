@@ -53,7 +53,7 @@ PCTutorialDefault.TutorialText="Mi estas la <COLOR: 10, 255, 200>spirito de ĉam
 PCTutorialDefault.TutorialText="Ĉiu <COLOR: 255,0,0>Heroklaso</COLOR> havas unikajn <COLOR: 252,139,19>Herokapablojn</COLOR>. Krome ekzistas kelkaj <COLOR: 252,139,19>Kapabloj</COLOR>, kiujn ĉiuj <COLOR: 255,0,0>Herooj</COLOR> havas. Se vi aktivigas la korespondajn <COLOR: 252,139,190>Kapablojn</COLOR> en via <COLOR: 0,173,12>Ag-rado</COLOR> vi povas '<COLOR: 0,45, 173>Ripari</COLOR>' viajn <COLOR: 255,255,255>Defendaĵojn</COLOR>, '<COLOR: 200,10,255>Plibonigi</COLOR>' ilin, aŭ eĉ '<COLOR: 0,173,12>Vendi</COLOR>' ilin."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_22 DunDef_SeqVar_TutorialData]
-PCTutorialDefault.TutorialText="Vidu! <COLOR: 0,79,224>Trezorkofro</COLOR> aperis ĉe la <COLOR: 200, 10, 255>Eternia Kristalo</COLOR>! Malfermu ĝin por vidi, kio estas en ĝi."
+PCTutorialDefault.TutorialText="Rigardu! <COLOR: 0,79,224>Trezorkofro</COLOR> aperis ĉe la <COLOR: 200, 10, 255>Eternia Kristalo</COLOR>! Malfermu ĝin por vidi, kio estas en ĝi."
 
 [TheWorld:PersistentLevel.Main_Sequence.Prefabs.Prefab_PerLevelStartup_Seq.TutorialSequence.DunDef_SeqVar_TutorialData_23 DunDef_SeqVar_TutorialData]
 PCTutorialDefault.TutorialText="El la <COLOR: 0,79,224>Trezorkofro</COLOR> falis kelkajn ekipaĵojn! Vi povas uzi iun ajn ekipaĵon, kiun vi trovas, per premo de @CheckActivation@ kiam vi estas apud ĝi. Tamen, bone atentu: Ekipaĵoj kiuj estas PLI BONAJ ol tiuj, kiujn vi uzas, estas akcentitaj per verdo. Prenu tiun ekipaĵon nun."
